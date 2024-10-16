@@ -14,7 +14,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<TheAndreyZakharov>&layout=compact&langs_count=100)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAndreyZakharov&layout=compact&langs_count=100)
 
 
 ..... in progress... editing.....
