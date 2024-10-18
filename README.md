@@ -1,4 +1,8 @@
 ![Visits Badge](https://badges.pufler.dev/visits/TheAndreyZakharov/TheAndreyZakharov)
+![Years Badge](https://badges.pufler.dev/years/TheAndreyZakharov)
+![Repos Badge](https://badges.pufler.dev/repos/TheAndreyZakharov)
+
+
 
 
 
