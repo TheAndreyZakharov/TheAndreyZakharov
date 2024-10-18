@@ -13,9 +13,7 @@
 
 </div>
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAndreyZakharov&langs_count=20&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAndreyZakharov&langs_count=20&layout=donut-vertical&size_weight=0.5&count_weight=0.5)
 
 
 ..... in progress... editing.....
