@@ -1,6 +1,12 @@
-![Years Badge](https://badges.pufler.dev/years/TheAndreyZakharov)
-![Repos Badge](https://badges.pufler.dev/repos/TheAndreyZakharov)
-![Visits Badge](https://badges.pufler.dev/visits/TheAndreyZakharov/TheAndreyZakharov)
+///
+///
+///
+
+About Me
+
+Some Tools I Use
+
+
 
 <div align="center">
   
@@ -12,6 +18,9 @@
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAndreyZakharov&langs_count=20&layout=donut-vertical&size_weight=0.5&count_weight=0.5)
+
+
+How To Reach Me
 
 
 ..... in progress... editing.....
