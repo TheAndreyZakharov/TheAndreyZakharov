@@ -1,3 +1,5 @@
+![Visits Badge](https://badges.pufler.dev/visits/TheAndreyZakharov/TheAndreyZakharov)
+
 
 
 
