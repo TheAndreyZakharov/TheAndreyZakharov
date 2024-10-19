@@ -35,7 +35,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_threshold: 0.00001%
-          plugin_languages_limit: 30
+          plugin_languages_limit: 8
           plugin_languages_other: yes
           plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage, lines
