@@ -40,4 +40,3 @@ jobs:
           filename: metrics.plugin.languages.svg
           base: ""
           plugin_languages: yes
-          plugin_languages_limit: 100
