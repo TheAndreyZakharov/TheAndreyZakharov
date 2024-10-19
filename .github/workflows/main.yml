@@ -41,12 +41,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_threshold: 0.00000%
-
-
-      - uses: lowlighter/metrics@latest
-        with:
-          config_timezone: Europe/Paris
-
+          
       
       - name: Recent activity charts
         uses: lowlighter/metrics@latest
