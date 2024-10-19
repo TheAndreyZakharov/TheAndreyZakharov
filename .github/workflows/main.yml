@@ -41,3 +41,30 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_threshold: 0.00000%
+
+
+      - uses: lowlighter/metrics@latest
+        with:
+          config_timezone: Europe/Paris
+
+      
+      - name: Recent activity charts
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.charts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_timezone: Russia/Moscow
+
+      - name: Detailed display
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
+
