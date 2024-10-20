@@ -40,7 +40,7 @@
 <details>
   <summary><strong>Resources</strong></summary>
   <p>
-    Below is a collection of resources that played a role in shaping this project. Some were directly utilized, while others served as sources of inspiration, guiding design choices and enhancing functionality.
+Below is a collection of resources that contributed to the development of this README. Some were directly used, while others served as sources of inspiration, guiding its structure and enhancing clarity.
   </p>
   <ul>
     <li><a href="https://github.com/lowlighter/metrics">Lowlighter Metrics</a></li>
