@@ -24,12 +24,10 @@
 <ul>
   <li>💻</li>
   <li>📖 </li>
-  <li>🎯</li>
 </ul>
 <h3>How To Reach Me</h3>
 <ul>
-  <li>Email: </li>
-  <li>LinkedIn: </li>
+  <li>Email: Andrey.Zakharov.Contact@gmail.com</li>
 </ul>
 
 <h2>Explore My GitHub</h2>
