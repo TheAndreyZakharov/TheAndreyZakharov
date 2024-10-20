@@ -3,7 +3,9 @@
 </p>
 
 <div align="center">
-  <h1>Hi, welcome!</h1>
+  <h1>
+    <img src="cat_jump.gif" alt="Cat" width="50"/>
+    Hi, welcome!</h1>
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
@@ -11,17 +13,25 @@
   <img src="/metrics.plugin.habits.charts.svg" alt="Coding Activity" width="400">
 </div>
 
-<h2>I'm Andrey Zakharov</h2>
+<h2>
+  <img src="gokittygo.gif" alt="Cat" width="45"/>
+  I'm Andrey Zakharov
+  </h2>
 
 <img align="right" src="./keyboard1.gif" alt="Keyboard GIF" width="300"/>
 
-<h3>About Me</h3>
+<h3>
+  <img src="WaitingPeachCat.gif" alt="Cat" width="40"/>
+  About Me
+</h3>
 <ul>
-  <li>I am an enthusiastic developer from Russia with experience in Software Engineering, skilled in working on a variety of projects. I enjoy challenges and <br> can code anything that sparks my interest, transforming ideas into reality.
+  <li>I am an enthusiastic developer from Russia with experience in Software Engineering, skilled in working on a variety of projects. I enjoy challenges and can code anything that sparks my interest, transforming ideas into reality.
   </li>
 </ul>
 
-<h3>How To Reach Me</h3>
+<h3>
+  <img src="cutekitty.gif" alt="Cat" width="40"/>
+  How To Reach Me</h3>
 <ul>    
 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Andrey.Zakharov.Contact@gmail.com)
@@ -29,7 +39,10 @@
 
 </ul>
 
-<h2>Explore My GitHub</h2>
+<h2>
+  <img src="CatNomsCherryBlossom.gif" alt="Cat" width="45"/>
+  Explore My GitHub
+  </h2>
 <div align="center" style="margin-top: 20px;">
   <img src="/github-metrics.svg" alt="GitHub Metrics" width="400">
 </div>
