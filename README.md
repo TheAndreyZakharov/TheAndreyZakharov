@@ -15,14 +15,6 @@
 </div>
 
 
-
-
-
-
-
-
-
-
 <h2>I'm Andrey Zakharov</h2>
 
 
@@ -52,20 +44,16 @@
 </div>
 
 
+<details>
+  <summary><strong>Resources</strong></summary>
+  <ul>
+    <li><a href="https://github.com/Nathan13888/VisitorBadgeReloaded?tab=readme-ov-file#migrating-from-visitor-badge">Visitor Badge Reloaded</a></li>
+    <li><a href="https://github.com/lowlighter/metrics">Lowlighter Metrics</a></li>
+    <li><a href="https://github.com/anuraghazra/github-readme-stats">Anurag's GitHub Stats</a></li>
+    <li><a href="https://github.com/DenverCoder1/github-profile-streak-stats?tab=readme-ov-file">GitHub Streak Stats</a></li>
+    <li><a href="https://github.com/ryo-ma/github-profile-trophy">GitHub Profile Trophy</a></li>
+    <li><a href="https://github.com/Ileriayo/markdown-badges">Markdown Badges</a></li>
+    <li><a href="https://github.com/pujux/badge-it?tab=readme-ov-file">Badge It</a></li>
+  </ul>
+</details>
 
-
-
-
-
-
-
-
-
-## Resources
-- [Visitor Badge Reloaded](https://github.com/Nathan13888/VisitorBadgeReloaded?tab=readme-ov-file#migrating-from-visitor-badge)
-- [Lowlighter Metrics](https://github.com/lowlighter/metrics)
-- [Anurag's GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
-- [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats?tab=readme-ov-file)
-- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
-- [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
-- [Badge It](https://github.com/pujux/badge-it?tab=readme-ov-file)
