@@ -9,8 +9,8 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Commit Calendar" width="390">
-  <img src="/metrics.plugin.habits.charts.svg" alt="Coding Activity" width="390">
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Commit Calendar" width="400">
+  <img src="/metrics.plugin.habits.charts.svg" alt="Coding Activity" width="400">
 </div>
 
 <p align="center" style="margin: 30px 0;">
