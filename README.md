@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  ![Visitors](https://vbr.nathanchung.dev/badge?page_id=TheAndreyZakharov&logo=github&cache=on)
+  ![Visitors](https://vbr.nathanchung.dev/badge?page_id=TheAndreyZakharov&color=00cf00&logo=github&cache=on)
   <h1>Hi, welcome!</h1>
 </div>
 
@@ -48,10 +48,9 @@
     <li><a href="https://github.com/Nathan13888/VisitorBadgeReloaded?tab=readme-ov-file#migrating-from-visitor-badge">Visitor Badge Reloaded</a></li>
     <li><a href="https://github.com/lowlighter/metrics">Lowlighter Metrics</a></li>
     <li><a href="https://github.com/anuraghazra/github-readme-stats">Anurag's GitHub Stats</a></li>
-    <li><a href="https://github.com/DenverCoder1/github-profile-streak-stats?tab=readme-ov-file">GitHub Streak Stats</a></li>
+    <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Streak Stats</a></li>
     <li><a href="https://github.com/ryo-ma/github-profile-trophy">GitHub Profile Trophy</a></li>
     <li><a href="https://github.com/Ileriayo/markdown-badges">Markdown Badges</a></li>
     <li><a href="https://github.com/pujux/badge-it?tab=readme-ov-file">Badge It</a></li>
   </ul>
 </details>
-
