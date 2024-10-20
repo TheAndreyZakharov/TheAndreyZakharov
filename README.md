@@ -2,7 +2,6 @@
   <img src="banner1.gif" alt="Banner">
 </p>
 
-
 <div align="center">
   
   ![Visitors](https://vbr.nathanchung.dev/badge?page_id=TheAndreyZakharov&color=00cf00&logo=github&cache=on)
@@ -14,9 +13,7 @@
   <img src="/metrics.plugin.habits.charts.svg" alt="Coding Activity" width="400">
 </div>
 
-
 <h2>I'm Andrey Zakharov</h2>
-
 
 <img align="right" src="./keyboard1.gif" alt="Keyboard GIF" width="300"/>
 
@@ -31,19 +28,18 @@
 </ul>
 
 <h2>Explore My GitHub</h2>
-
-
 <div align="center" style="margin-top: 20px;">
   <img src="/github-metrics.svg" alt="GitHub Metrics" width="400">
 </div>
-
 <div align="center" style="margin-top: 20px;">
   <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="400">
 </div>
 
-
 <details>
   <summary><strong>Resources</strong></summary>
+  <p>
+    Below is a collection of resources that played a role in shaping this project. Some were directly utilized, while others served as sources of inspiration, guiding design choices and enhancing functionality.
+  </p>
   <ul>
     <li><a href="https://github.com/Nathan13888/VisitorBadgeReloaded?tab=readme-ov-file#migrating-from-visitor-badge">Visitor Badge Reloaded</a></li>
     <li><a href="https://github.com/lowlighter/metrics">Lowlighter Metrics</a></li>
@@ -54,3 +50,4 @@
     <li><a href="https://github.com/pujux/badge-it?tab=readme-ov-file">Badge It</a></li>
   </ul>
 </details>
+
