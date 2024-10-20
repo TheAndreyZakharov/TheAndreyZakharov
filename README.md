@@ -35,10 +35,14 @@
 </div>
 <div align="center" style="margin-top: 20px;">
   <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="400">
-</div>
+</div>  
 
+<p align="left">
+  <img src="kittycat.gif" alt="Cat">
+</p>
 <details>
-  <summary><strong>Resources</strong></summary>
+  <summary><strong>Resources</strong>
+  </summary>
   <p>
 Below is a collection of resources that contributed to the development of this README. Some were directly used, while others served as sources of inspiration, guiding its structure and enhancing clarity.
   </p>
