@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="![banner]()">
+  <img src="banner1.gif" alt="Banner">
 </p>
+
 
 <div align="center">
   
@@ -14,14 +15,33 @@
 </div>
 
 
-## About Me
-Hello! I'm 
 
-## How To Reach Me
-- Email: 
-- LinkedIn:
 
-## About My GitHub
+
+
+
+
+
+
+<h2>I'm Andrey Zakharov</h2>
+
+
+<img align="right" src="./keyboard1.gif" alt="Keyboard GIF" width="300"/>
+
+<h3>About Me</h3>
+<ul>
+  <li>💻</li>
+  <li>📖 </li>
+  <li>🎯</li>
+</ul>
+<h3>How To Reach Me</h3>
+<ul>
+  <li>Email: </li>
+  <li>LinkedIn: </li>
+</ul>
+
+<h2>Explore My GitHub</h2>
+
 
 <div align="center" style="margin-top: 20px;">
   <img src="/github-metrics.svg" alt="GitHub Metrics" width="400">
@@ -30,6 +50,14 @@ Hello! I'm
 <div align="center" style="margin-top: 20px;">
   <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="400">
 </div>
+
+
+
+
+
+
+
+
 
 
 
