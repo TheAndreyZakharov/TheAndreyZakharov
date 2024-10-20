@@ -3,8 +3,6 @@
 </p>
 
 <div align="center">
-  
-  ![Visitors](https://vbr.nathanchung.dev/badge?page_id=TheAndreyZakharov&color=00cf00&logo=github&cache=on)
   <h1>Hi, welcome!</h1>
 </div>
 
