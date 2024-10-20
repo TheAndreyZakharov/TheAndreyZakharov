@@ -17,7 +17,7 @@
 
 <h3>About Me</h3>
 <ul>
-  <li>I am an enthusiastic developer from Russia with experience in Software Engineering, skilled in working on a variety of projects. I enjoy challenges and can code anything that sparks my interest, transforming ideas into reality.
+  <li>I am an enthusiastic developer from Russia with experience in Software Engineering, skilled in working on a variety of projects. I enjoy challenges and <br> can code anything that sparks my interest, transforming ideas into reality.
   </li>
 </ul>
 
