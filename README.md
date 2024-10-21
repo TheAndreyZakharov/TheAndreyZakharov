@@ -68,7 +68,6 @@ Below is a collection of resources that contributed to the development of this R
     <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Streak Stats</a></li>
     <li><a href="https://github.com/ryo-ma/github-profile-trophy">GitHub Profile Trophy</a></li>
     <li><a href="https://github.com/Nathan13888/VisitorBadgeReloaded?tab=readme-ov-file#migrating-from-visitor-badge">Visitor Badge Reloaded</a></li>
-    <li><a href="https://github.com/Nathan13888/VisitorBadgeReloaded?tab=readme-ov-file#migrating-from-visitor-badge">Visitor Badge Reloaded</a></li>
     <li><a href="https://github.com/pujux/badge-it?tab=readme-ov-file">Badge It</a></li>
     <li><a href="https://github.com/journey-ad/Moe-Counter">Moe Counter</a></li>
     <li><a href="https://github.com/yoshi389111/github-profile-3d-contrib">GitHub Profile 3D Contrib</a></li>
