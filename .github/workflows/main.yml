@@ -81,6 +81,8 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
+          plugin_wakatime_languages_ignored: Other
+          plugin_wakatime_languages_other: no
 
       - name: LeetCode
         uses: lowlighter/metrics@latest
