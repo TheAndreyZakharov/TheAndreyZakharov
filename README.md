@@ -42,16 +42,26 @@
 <h2>
   <img src="CatNomsCherryBlossom.gif" alt="Cat" width="45"/>
   Explore My Stats
-  </h2>
-<div align="center" style="margin-top: 20px;">
-  <img src="/github-metrics.svg" alt="GitHub Metrics" width="400">
+</h2>
+
+<div align="center">
+  <table style="width: 80%; margin-top: 20px; border-collapse: collapse;">
+    <tr>
+      <td style="text-align: center; vertical-align: top; padding: 20px;">
+        <h3>GitHub</h3>
+        <img src="/github-metrics.svg" alt="GitHub Metrics" width="400">
+        <h3>Achievements</h3>
+        <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="400">
+      </td>
+      <td style="text-align: center; vertical-align: top; padding: 20px;" rowspan="2">
+        <h3>WakaTime</h3>
+        <img src="/metrics.plugin.wakatime.svg" alt="WakaTime.svg" width="400">
+        <h3>LeetCode</h3>
+        <img src="/metrics.plugin.leetcode.svg" alt="LeetCode.svg" width="400">
+      </td>
+    </tr>
+  </table>
 </div>
-<div align="center" style="margin-top: 20px;">
-  <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="400">
-</div>  
-<div align="center" style="margin-top: 20px;">
-  <img src="/metrics.plugin.wakatime.svg" alt="Achievements" width="400">
-</div>  
 
 <p align="left">
   <img src="kittycat.gif" alt="Cat">
