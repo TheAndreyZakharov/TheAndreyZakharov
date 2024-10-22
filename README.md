@@ -41,13 +41,16 @@
 
 <h2>
   <img src="CatNomsCherryBlossom.gif" alt="Cat" width="45"/>
-  Explore My GitHub
+  Explore My Stats
   </h2>
 <div align="center" style="margin-top: 20px;">
   <img src="/github-metrics.svg" alt="GitHub Metrics" width="400">
 </div>
 <div align="center" style="margin-top: 20px;">
   <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="400">
+</div>  
+<div align="center" style="margin-top: 20px;">
+  <img src="/metrics.plugin.wakatime.svg" alt="Achievements" width="400">
 </div>  
 
 <p align="left">
