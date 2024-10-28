@@ -2,23 +2,28 @@
   <img src="banner1.gif" alt="Banner">
 </p>
 
+
 <div align="center">
   <h1>
     <img src="cat_jump.gif" alt="Cat" width="50"/>
     Hi, welcome!</h1>
 </div>
 
+
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Commit Calendar" width="400">
   <img src="/metrics.plugin.habits.charts.svg" alt="Coding Activity" width="400">
 </div>
+
 
 <h2>
   <img src="gokittygo.gif" alt="Cat" width="45"/>
   I'm Andrey Zakharov
   </h2>
 
+
 <img align="right" src="./keyboard1.gif" alt="Keyboard GIF" width="300"/>
+
 
 <h3>
   <img src="WaitingPeachCat.gif" alt="Cat" width="40"/>
@@ -28,6 +33,7 @@
   <li>I am an enthusiastic developer from Russia with experience in Software Engineering, skilled in working on a variety of projects. I enjoy challenges and can code anything that sparks my interest, transforming ideas into reality.
   </li>
 </ul>
+
 
 <h3>
   <img src="cutekitty.gif" alt="Cat" width="40"/>
@@ -39,10 +45,12 @@
 
 </ul>
 
+
 <h2>
   <img src="CatNomsCherryBlossom.gif" alt="Cat" width="45"/>
   Explore My Stats
 </h2>
+
 
 <div align="center">
   <table style="width: 80%; margin-top: 20px; border-collapse: collapse;">
@@ -62,6 +70,7 @@
     </tr>
   </table>
 </div>
+
 
 <p align="left">
   <img src="kittycat.gif" alt="Cat">
