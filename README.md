@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="banner1.gif" alt="Banner">
+  <img src="/resources/banner1.gif" alt="Banner">
 </p>
 
 
 <div align="center">
   <h1>
-    <img src="cat_jump.gif" alt="Cat" width="50"/>
+    <img src="/resources/cat_jump.gif" alt="Cat" width="50"/>
     Hi, welcome!</h1>
 </div>
 
@@ -17,16 +17,16 @@
 
 
 <h2>
-  <img src="gokittygo.gif" alt="Cat" width="45"/>
+  <img src="/resources/gokittygo.gif" alt="Cat" width="45"/>
   I'm Andrey Zakharov
   </h2>
 
 
-<img align="right" src="./keyboard1.gif" alt="Keyboard GIF" width="300"/>
+<img align="right" src="/resources/keyboard1.gif" alt="Keyboard GIF" width="300"/>
 
 
 <h3>
-  <img src="WaitingPeachCat.gif" alt="Cat" width="40"/>
+  <img src="/resources/WaitingPeachCat.gif" alt="Cat" width="40"/>
   About Me
 </h3>
 <ul>
@@ -36,7 +36,7 @@
 
 
 <h3>
-  <img src="cutekitty.gif" alt="Cat" width="40"/>
+  <img src="/resources/cutekitty.gif" alt="Cat" width="40"/>
   How To Reach Me</h3>
 <ul>    
 
@@ -47,7 +47,7 @@
 
 
 <h2>
-  <img src="CatNomsCherryBlossom.gif" alt="Cat" width="45"/>
+  <img src="/resources/CatNomsCherryBlossom.gif" alt="Cat" width="45"/>
   Explore My Stats
 </h2>
 
@@ -73,7 +73,7 @@
 
 
 <p align="left">
-  <img src="kittycat.gif" alt="Cat">
+  <img src="/resources/kittycat.gif" alt="Cat">
 </p>
 <details>
   <summary><strong>Resources</strong>
