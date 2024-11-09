@@ -11,8 +11,8 @@
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Commit Calendar" width="400">
-  <img src="/metrics.plugin.habits.charts.svg" alt="Coding Activity" width="400">
+  <img src="metrics/metrics.plugin.isocalendar.fullyear.svg" alt="Commit Calendar" width="400">
+  <img src="metrics/metrics.plugin.habits.charts.svg" alt="Coding Activity" width="400">
 </div>
 
 
@@ -57,15 +57,15 @@
     <tr>
       <td style="text-align: center; vertical-align: top; padding: 20px;">
         <h3>GitHub</h3>
-        <img src="/github-metrics.svg" alt="GitHub Metrics" width="400">
+        <img src="metrics/github-metrics.svg" alt="GitHub Metrics" width="400">
         <h3>Achievements</h3>
-        <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="400">
+        <img src="metrics/metrics.plugin.achievements.svg" alt="Achievements" width="400">
       </td>
       <td style="text-align: center; vertical-align: top; padding: 20px;" rowspan="2">
         <h3>WakaTime</h3>
-        <img src="/metrics.plugin.wakatime.svg" alt="WakaTime.svg" width="400">
+        <img src="metrics/metrics.plugin.wakatime.svg" alt="WakaTime.svg" width="400">
         <h3>LeetCode</h3>
-        <img src="/metrics.plugin.leetcode.svg" alt="LeetCode.svg" width="400">
+        <img src="metrics/metrics.plugin.leetcode.svg" alt="LeetCode.svg" width="400">
       </td>
     </tr>
   </table>
