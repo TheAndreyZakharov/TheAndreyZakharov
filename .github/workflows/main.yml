@@ -19,7 +19,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          filename: metrics/metrics.plugin.isocalendar.fullyear.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -28,7 +28,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.plugin.languages.svg
+          filename: metrics/metrics.plugin.languages.svg
           base: ""
           plugin_languages: yes
           plugin_languages_other: yes
@@ -36,7 +36,7 @@ jobs:
       - name: Recent activity charts
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.charts.svg
+          filename: metrics/metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
@@ -53,7 +53,7 @@ jobs:
       - name: Detailed display
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.svg
+          filename: metrics/metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
@@ -65,7 +65,7 @@ jobs:
       - name: Repositories traffic
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.traffic.svg
+          filename: metrics/metrics.plugin.traffic.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: repositories
           plugin_traffic: yes
@@ -74,7 +74,7 @@ jobs:
       - name: WakaTime
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.wakatime.svg
+          filename: metrics/metrics.plugin.wakatime.svg
           token: NOT_NEEDED
           base: ""
           plugin_wakatime: yes
@@ -87,7 +87,7 @@ jobs:
       - name: LeetCode
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.leetcode.svg
+          filename: metrics/metrics.plugin.leetcode.svg
           token: NOT_NEEDED
           base: ""
           plugin_leetcode_user: TheAndreyZakharov
