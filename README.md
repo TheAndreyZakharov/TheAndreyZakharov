@@ -2,28 +2,23 @@
   <img src="/resources/banner1.gif" alt="Banner">
 </p>
 
-
 <div align="center">
   <h1>
     <img src="/resources/cat_jump.gif" alt="Cat" width="50"/>
     Hi, welcome!</h1>
 </div>
 
-
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <img src="metrics/metrics.plugin.isocalendar.fullyear.svg" alt="Commit Calendar" width="400">
   <img src="metrics/metrics.plugin.habits.charts.svg" alt="Coding Activity" width="400">
 </div>
-
 
 <h2>
   <img src="/resources/gokittygo.gif" alt="Cat" width="45"/>
   I'm Andrey Zakharov
   </h2>
 
-
-<img align="right" src="/resources/keyboard1.gif" alt="Keyboard GIF" width="300"/>
-
+<img align="right" src="/resources/keyboard1.gif" alt="Keyboard GIF" width="380"/>
 
 <h3>
   <img src="/resources/WaitingPeachCat.gif" alt="Cat" width="40"/>
@@ -37,20 +32,79 @@
 
 <h3>
   <img src="/resources/cutekitty.gif" alt="Cat" width="40"/>
-  How To Reach Me</h3>
+  Contacts</h3>
 <ul>    
 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Andrey.Zakharov.Contact@gmail.com)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andrew_zakharov)
-
+<div align="left">
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td style="text-align: right; padding: 10px;">
+        <a href="https://t.me/TheAndreyZakharov">
+          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+        </a>
+      </td>
+      <td style="text-align: left; padding: 10px;">
+        @TheAndreyZakharov
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: right; padding: 10px;">
+        <a href="https://www.linkedin.com/in/TheAndreyZakharov">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+      <td style="text-align: left; padding: 10px;">
+        TheAndreyZakharov
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: right; padding: 10px;">
+        <a href="mailto:Andrey.Zakharov.Contact@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        </a>
+      </td>
+      <td style="text-align: left; padding: 10px;">
+        Andrey.Zakharov.Contact@gmail.com
+      </td>
+    </tr>
+  </table>
+</div>
+  
 </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <h2>
   <img src="/resources/CatNomsCherryBlossom.gif" alt="Cat" width="45"/>
   Explore My Stats
 </h2>
-
 
 <div align="center">
   <table style="width: 80%; margin-top: 20px; border-collapse: collapse;">
@@ -70,7 +124,6 @@
     </tr>
   </table>
 </div>
-
 
 <p align="left">
   <img src="/resources/kittycat.gif" alt="Cat">
