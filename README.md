@@ -18,12 +18,15 @@
   I'm Andrey Zakharov
   </h2>
 
-<img align="right" src="/resources/keyboard1.gif" alt="Keyboard GIF" width="380"/>
 
 <h3>
   <img src="/resources/WaitingPeachCat.gif" alt="Cat" width="40"/>
   About Me
 </h3>
+
+<img align="right" src="/resources/keyboard1.gif" alt="Keyboard GIF" width="380"/>
+
+
 <ul>
   <li>I am an enthusiastic developer from Russia with experience in Software Engineering, skilled in working on a variety of projects. I enjoy challenges and can code anything that sparks my interest, transforming ideas into reality.
   </li>
