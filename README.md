@@ -76,34 +76,6 @@
 </ul>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2>
   <img src="/resources/CatNomsCherryBlossom.gif" alt="Cat" width="45"/>
   Explore My Stats
