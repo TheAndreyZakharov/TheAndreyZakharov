@@ -50,7 +50,7 @@
         @TheAndreyZakharov
       </td>
     </tr>
-    <tr>
+    <!--<tr>
       <td style="text-align: right; padding: 10px;">
         <a href="https://www.linkedin.com/in/TheAndreyZakharov">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -59,7 +59,7 @@
       <td style="text-align: left; padding: 10px;">
         TheAndreyZakharov
       </td>
-    </tr>
+    </tr>-->
     <tr>
       <td style="text-align: right; padding: 10px;">
         <a href="mailto:Andrey.Zakharov.Contact@gmail.com">
