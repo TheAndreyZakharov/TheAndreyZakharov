@@ -23,7 +23,7 @@ jobs:
           filename: metrics/metrics.plugin.isocalendar.fullyear.svg
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
 
       - name: Most used languages
         uses: lowlighter/metrics@latest
@@ -52,7 +52,7 @@ jobs:
           config_timezone: Europe/Moscow
 
       - name: Detailed display
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
         with:
           filename: metrics/metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
