@@ -47,7 +47,12 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
           plugin_habits_trim: no
-          plugin_habits_languages_limit: 8
+          plugin_habits_languages_limit: 0
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 30
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
           plugin_habits_languages_threshold: 0.01%
           config_timezone: Europe/Moscow
 
@@ -94,3 +99,10 @@ jobs:
           plugin_leetcode_user: TheAndreyZakharov
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent          
+
+      - name: All
+        uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
+        with:
+          filename: metrics/metrics.plugin.leetcode.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+ 
