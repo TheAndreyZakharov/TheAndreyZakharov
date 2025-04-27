@@ -58,11 +58,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
-          plugin_habits_from: 1000
-          plugin_habits_days: 30
           plugin_habits_facts: no
           plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
+          plugin_habits_from: 1000
+          plugin_habits_days: 30
           config_timezone: Europe/Moscow
 
       - name: Detailed display
