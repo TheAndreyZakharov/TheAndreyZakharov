@@ -17,7 +17,7 @@ jobs:
           filename: metrics/github-metrics.svg
           user: TheAndreyZakharov
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""
           config_timezone: Europe/Moscow
           plugin_languages: yes
           plugin_languages_indepth: yes
@@ -31,6 +31,8 @@ jobs:
           plugin_languages_recent_load: 1000
           plugin_languages_recent_days: 365
           plugin_languages_threshold: 0%
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 15
           plugin_languages_other: yes
           
       - name: Full-year calendar
@@ -60,6 +62,8 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
+          plugin_habits_from: 1000
+          plugin_habits_days: 30
           config_timezone: Europe/Moscow
 
       - name: Detailed display
