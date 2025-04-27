@@ -52,7 +52,7 @@ jobs:
           plugin_languages_other: yes
 
       - name: Recent activity charts
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
         with:
           filename: metrics/metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -60,8 +60,6 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
-          plugin_habits_from: 1000
-          plugin_habits_days: 30
           config_timezone: Europe/Moscow
 
       - name: Detailed display
