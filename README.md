@@ -87,6 +87,7 @@
       <td style="text-align: center; vertical-align: top; padding: 20px;">
         <h3>GitHub</h3>
         <img src="metrics/github-metrics.svg" alt="GitHub Metrics" width="400">
+        <h3>   </h3>
         <img src="metrics/metrics.plugin.languages.svg" alt="Languages" width="400">
       </td>
       <td style="text-align: center; vertical-align: top; padding: 20px;" rowspan="2">
