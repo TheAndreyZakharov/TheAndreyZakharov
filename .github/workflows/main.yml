@@ -65,6 +65,7 @@ jobs:
           plugin_habits_charts_type: classic
           plugin_habits_trim: no
           plugin_habits_languages_limit: 0
+          plugin_habits_languages_threshold: 0%
           config_timezone: Europe/Moscow
 
       - name: Detailed display
