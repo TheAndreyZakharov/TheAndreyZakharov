@@ -36,7 +36,7 @@ jobs:
           commits_authoring: Andrey, andrey, andreyzakharov, AndreyZakharov, theandreyzakharov, TheAndreyZakharov, andrey zakharov, Andrey Zakharov, andrey.zakharov.contact@gmail.com, andrey.connections@gmail.com
           plugin_languages_categories: markup, programming, data, prose
           plugin_languages_recent_categories: markup, programming, data, prose
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_limit: 0
