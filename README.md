@@ -89,11 +89,13 @@
         <img src="metrics/github-metrics.svg" alt="GitHub Metrics" width="400">
         <h3>Languages</h3>
         <img src="metrics/metrics.plugin.languages.svg" alt="Languages" width="400"> <br>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAndreyZakharov&layout=compact&langs_count=20&range=last_year" alt="WakaTime Stats" width="400">
+        <img [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAndreyZakharov&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&border_radius=0" alt="WakaTime Stats" width="400">
       </td>
       <td style="text-align: center; vertical-align: top; padding: 20px;" rowspan="2">
         <h3>Achievements</h3>
-        <img src="metrics/metrics.plugin.achievements.svg" alt="Achievements" width="400">
+        <img src="metrics/metrics.plugin.achievements.svg" alt="Achievements" width="400"> <br>
+        <img src="https://github-profile-trophy.vercel.app/?username=TheAndreyZakharov&theme=onedark&no-bg=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" width="400">
         <h3>WakaTime</h3>
         <img src="metrics/metrics.plugin.wakatime.svg" alt="WakaTime.svg" width="400">
         <h3>LeetCode</h3>
