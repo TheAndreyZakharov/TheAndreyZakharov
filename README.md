@@ -50,7 +50,7 @@
         @TheAndreyZakharov
       </td>
     </tr>
-    <!--<tr>
+    <<tr>
       <td style="text-align: right; padding: 10px;">
         <a href="https://www.linkedin.com/in/TheAndreyZakharov">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -59,7 +59,7 @@
       <td style="text-align: left; padding: 10px;">
         TheAndreyZakharov
       </td>
-    </tr>-->
+    </tr>>
     <tr>
       <td style="text-align: right; padding: 10px;">
         <a href="mailto:Andrey.Zakharov.Contact@gmail.com">
@@ -88,7 +88,8 @@
         <h3>GitHub</h3>
         <img src="metrics/github-metrics.svg" alt="GitHub Metrics" width="400">
         <h3>Languages</h3>
-        <img src="metrics/metrics.plugin.languages.svg" alt="Languages" width="400">
+        <img src="metrics/metrics.plugin.languages.svg" alt="Languages" width="400"> <br>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAndreyZakharov&layout=compact&langs_count=20&range=last_year" alt="WakaTime Stats" width="400">
       </td>
       <td style="text-align: center; vertical-align: top; padding: 20px;" rowspan="2">
         <h3>Achievements</h3>
