@@ -33,19 +33,19 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
-          commits_authoring: Andrey, andrey, andreyzakharov, AndreyZakharov, theandreyzakharov, TheAndreyZakharov, andrey zakharov, Andrey Zakharov, andrey.connections@gmail.com
+          commits_authoring: Andrey, andrey, andreyzakharov, AndreyZakharov, theandreyzakharov, TheAndreyZakharov, andrey zakharov, Andrey Zakharov, andrey.zakharov.contact@gmail.com, andrey.connections@gmail.com
           plugin_languages_categories: markup, programming, data, prose
+          plugin_languages_recent_categories: markup, programming, data, prose
+          plugin_languages_sections: most-used, recently-used
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_limit: 0
-          plugin_languages_recent_categories: markup, programming, data, prose
-          plugin_languages_sections: most-used
-          plugin_languages_recent_load: 1000
-          plugin_languages_recent_days: 365
           plugin_languages_threshold: 0%
+          plugin_languages_other: yes
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
-          plugin_languages_other: yes
+          plugin_languages_recent_load: 1000
+          plugin_languages_recent_days: 365
           
       - name: Recent activity charts
         uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
@@ -54,6 +54,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
           plugin_habits_facts: no
           plugin_habits_charts: yes
           plugin_habits_from: 1000
