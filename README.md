@@ -125,6 +125,8 @@ Below is a collection of resources that contributed to the development of this R
     <li><a href="https://github.com/pujux/badge-it?tab=readme-ov-file">Badge It</a></li>
     <li><a href="https://github.com/journey-ad/Moe-Counter">Moe Counter</a></li>
     <li><a href="https://github.com/yoshi389111/github-profile-3d-contrib">GitHub Profile 3D Contrib</a></li>
+    <li><a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges4 README.md Profile</a></li>
+    <li><a href="https://github.com/CLorant/readme-social-icons">Readme Social Icons</a></li>
   </ul>
 </details>
 
