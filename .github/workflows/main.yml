@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
+      - uses: cicirello/user-statistician@v1
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/github-metrics.svg
@@ -26,7 +26,7 @@ jobs:
           plugin_isocalendar_duration: full-year
 
       - name: Most used languages
-        uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
+        uses: cicirello/user-statistician@v1
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/metrics.plugin.languages.svg
@@ -48,7 +48,7 @@ jobs:
           plugin_languages_recent_days: 365
           
       - name: Recent activity charts
-        uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
+        uses: cicirello/user-statistician@v1
         with:
           filename: metrics/metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -63,7 +63,7 @@ jobs:
           config_timezone: Europe/Moscow
 
       - name: Detailed display
-        uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
+        uses: cicirello/user-statistician@v1
         with:
           filename: metrics/metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -84,7 +84,7 @@ jobs:
           plugin_traffic_skipped: ""
 
       - name: WakaTime
-        uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
+        uses: cicirello/user-statistician@v1
         with:
           filename: metrics/metrics.plugin.wakatime.svg
           token: NOT_NEEDED
@@ -97,7 +97,7 @@ jobs:
           plugin_wakatime_languages_other: no
 
       - name: LeetCode
-        uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
+        uses: cicirello/user-statistician@v1
         with:
           filename: metrics/metrics.plugin.leetcode.svg
           token: NOT_NEEDED
