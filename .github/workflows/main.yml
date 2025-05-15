@@ -11,13 +11,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: stalomeow/metrics@projects-v2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/github-metrics.svg
           
       - name: Full-year calendar
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/metrics.plugin.isocalendar.fullyear.svg
@@ -26,7 +26,7 @@ jobs:
           plugin_isocalendar_duration: full-year
 
       - name: Most used languages
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/metrics.plugin.languages.svg
@@ -48,7 +48,7 @@ jobs:
           plugin_languages_recent_days: 365
           
       - name: Recent activity charts
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
         with:
           filename: metrics/metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -84,7 +84,7 @@ jobs:
           plugin_traffic_skipped: ""
 
       - name: WakaTime
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
         with:
           filename: metrics/metrics.plugin.wakatime.svg
           token: NOT_NEEDED
@@ -97,7 +97,7 @@ jobs:
           plugin_wakatime_languages_other: no
 
       - name: LeetCode
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
         with:
           filename: metrics/metrics.plugin.leetcode.svg
           token: NOT_NEEDED
