@@ -18,7 +18,7 @@
   I'm Andrey Zakharov
 </h2>
 
-<img align="right" src="/resources/keyboard1.gif" alt="Keyboard GIF" width="300"/>
+<img align="right" src="/resources/keyboard1.gif" alt="Keyboard GIF" width="280"/>
 
 <h3>
   <img src="/resources/WaitingPeachCat.gif" alt="Cat" width="40"/>
