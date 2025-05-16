@@ -16,65 +16,56 @@
 <h2>
   <img src="/resources/gokittygo.gif" alt="Cat" width="45"/>
   I'm Andrey Zakharov
-  </h2>
+</h2>
 
+<img align="right" src="/resources/keyboard1.gif" alt="Keyboard GIF" width="300"/>
 
 <h3>
   <img src="/resources/WaitingPeachCat.gif" alt="Cat" width="40"/>
   About Me
 </h3>
 
-<img align="right" src="/resources/keyboard1.gif" alt="Keyboard GIF" width="380"/>
-
-
 <ul>
   <li>I am an enthusiastic developer from Russia with experience in Software Engineering, skilled in working on a variety of projects. I enjoy challenges and can code anything that sparks my interest, transforming ideas into reality.
   </li>
 </ul>
 
-
 <h3>
   <img src="/resources/cutekitty.gif" alt="Cat" width="40"/>
-  Contacts</h3>
+  Let's Connect
+</h3>
+
 <ul>    
-
-<div align="left">
-  <table style="border-collapse: collapse;">
-    <tr>
-      <td style="text-align: right; padding: 10px;">
-        <a href="https://t.me/TheAndreyZakharov">
-          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-        </a>
-      </td>
-      <td style="text-align: left; padding: 10px;">
-        @TheAndreyZakharov
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: right; padding: 10px;">
-        <a href="https://www.linkedin.com/in/TheAndreyZakharov">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-      </td>
-      <td style="text-align: left; padding: 10px;">
-        TheAndreyZakharov
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: right; padding: 10px;">
-        <a href="mailto:Andrey.Zakharov.Contact@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-        </a>
-      </td>
-      <td style="text-align: left; padding: 10px;">
-        Andrey.Zakharov.Contact@gmail.com
-      </td>
-    </tr>
-  </table>
+<div align="center" style="margin-top: 10px;">
+  <a href="mailto:Andrey.Zakharov.Contact@gmail.com" title="Andrey.Zakharov.Contact@gmail.com" target="_blank" style="margin: 0 10px;">
+    <img src="/resources/icons8-gmail-94.png" alt="Gmail" width="40">
+  </a>
+  <a href="https://t.me/TheAndreyZakharov" title="https://t.me/TheAndreyZakharov" target="_blank" style="margin: 0 10px;">
+    <img src="/resources/icons8-telegram-94.png" alt="Telegram" width="50">
+  </a>
+  <a href="https://www.linkedin.com/in/TheAndreyZakharov" title="https://www.linkedin.com/in/TheAndreyZakharov" target="_blank" style="margin: 0 10px;">
+    <img src="/resources/icons8-linkedin-94.png" alt="LinkedIn" width="50">
+  </a>
+  <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
+    <img src="/resources/icons8-facebook-94.png" alt="Facebook" width="50">
+  </a>
+  <a href="https://www.reddit.com/user/TheAndreyZakharov" title="https://www.reddit.com/user/TheAndreyZakharov" target="_blank" style="margin: 0 10px;">
+    <img src="/resources/icons8-reddit-94.png" alt="Reddit" width="50">
+  </a>
+  <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
+    <img src="/resources/icons8-twitch-94.png" alt="Twitch" width="50">
+  </a>
+  <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
+    <img src="/resources/icons8-discord-94.png" alt="Discord" width="50">
+  </a>
+  <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
+    <img src="/resources/icons8-instagram-94.png" alt="Instagram" width="50">
+  </a>
+  <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
+    <img src="/resources/icons8-vk-94.png" alt="VK" width="50">
+  </a>
 </div>
-  
 </ul>
-
 
 <h2>
   <img src="/resources/CatNomsCherryBlossom.gif" alt="Cat" width="45"/>
@@ -107,11 +98,12 @@
 <p align="left">
   <img src="/resources/kittycat.gif" alt="Cat">
 </p>
+
 <details>
   <summary><strong>Resources</strong>
   </summary>
   <p>
-Below is a collection of resources that contributed to the development of this README. Some were directly used, while others served as sources of inspiration, guiding its structure and enhancing clarity.
+    Below is a collection of resources that contributed to the development of this README. Some were directly used, while others served as sources of inspiration, guiding its structure and enhancing clarity.
   </p>
   <ul>
     <li><a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">Awesome GitHub Profile Readme</a></li>
