@@ -38,7 +38,7 @@
 <ul>    
 <div align="center" style="margin-top: 10px;">
   <a href="mailto:Andrey.Zakharov.Contact@gmail.com" title="Andrey.Zakharov.Contact@gmail.com" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-gmail-94.png" alt="Gmail" width="40">
+    <img src="/resources/icons8-gmail-94.png" alt="Gmail" width="50">
   </a>
   <a href="https://t.me/TheAndreyZakharov" title="https://t.me/TheAndreyZakharov" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-telegram-94.png" alt="Telegram" width="50">
