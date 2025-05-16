@@ -18,7 +18,7 @@
   I'm Andrey Zakharov
 </h2>
 
-<img align="right" src="/resources/keyboard1.gif" alt="Keyboard GIF" width="280"/>
+<img align="right" src="/resources/keyboard1.gif" alt="Keyboard GIF" width="380"/>
 
 <h3>
   <img src="/resources/WaitingPeachCat.gif" alt="Cat" width="40"/>
@@ -36,7 +36,7 @@
 </h3>
 
 <ul>    
-<div align="center" style="margin-top: 10px;">
+<div style="margin-top: 10px;">
   <a href="mailto:Andrey.Zakharov.Contact@gmail.com" title="Andrey.Zakharov.Contact@gmail.com" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-gmail-94.png" alt="Gmail" width="50">
   </a>
