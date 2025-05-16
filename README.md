@@ -85,7 +85,8 @@
       <td style="text-align: center; vertical-align: top; padding: 20px;" rowspan="2">
         <h3>Achievements</h3>
         <img src="metrics/metrics.plugin.achievements.svg" alt="Achievements" width="400"> <br>
-        <img src="https://github-profile-trophy.vercel.app/?username=TheAndreyZakharov&theme=onedark&no-bg=true&margin-w=15&margin-h=15&column=6&rank=-?" alt="GitHub Trophies" width="400">
+        <img src="https://github-profile-trophy.vercel.app/?username=TheAndreyZakharov&theme=onedark&no-bg=true&margin-w=15&margin-h=15&column=6&rank=-?" alt="GitHub Trophies" width="400"> <br>
+        <img src="https://count.getloli.com/@ProfileViews?name=ProfileViews&theme=rule34&padding=12&offset=0&align=center&scale=0.7&pixelated=1&darkmode=0" alt=":ProfileViews" />        
         <h3>WakaTime</h3>
         <img src="metrics/metrics.plugin.wakatime.svg" alt="WakaTime.svg" width="400">
         <h3>LeetCode</h3>
@@ -114,11 +115,13 @@
     <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Streak Stats</a></li>
     <li><a href="https://github.com/ryo-ma/github-profile-trophy">GitHub Profile Trophy</a></li>
     <li><a href="https://github.com/Nathan13888/VisitorBadgeReloaded?tab=readme-ov-file#migrating-from-visitor-badge">Visitor Badge Reloaded</a></li>
-    <li><a href="https://github.com/pujux/badge-it?tab=readme-ov-file">Badge It</a></li>
+    <li><a href="https://github.com/antonkomarev/github-profile-views-counter">Github Profile Views Counter</a></li> 
     <li><a href="https://github.com/journey-ad/Moe-Counter">Moe Counter</a></li>
-    <li><a href="https://github.com/yoshi389111/github-profile-3d-contrib">GitHub Profile 3D Contrib</a></li>
+    <li><a href="https://github.com/pujux/badge-it?tab=readme-ov-file">Badge It</a></li>
     <li><a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges4 README.md Profile</a></li>
     <li><a href="https://github.com/CLorant/readme-social-icons">Readme Social Icons</a></li>
+    <li><a href="https://github.com/yoshi389111/github-profile-3d-contrib">GitHub Profile 3D Contrib</a></li>
   </ul>
 </details>
 
+![](https://komarev.com/ghpvc/?username=TheAndreyZakharov&color=blue&style=pixel&label=Profile+Views) <!-- style=plastic / pixel-->
