@@ -122,6 +122,7 @@
     <li><a href="https://github.com/CLorant/readme-social-icons">Readme Social Icons</a></li>
     <li><a href="https://github.com/yoshi389111/github-profile-3d-contrib">GitHub Profile 3D Contrib</a></li>
   </ul>
+  
+  ![](https://komarev.com/ghpvc/?username=TheAndreyZakharov&color=blue&style=pixel&label=Profile+Views) <!-- style=plastic / pixel-->
+  
 </details>
-
-![](https://komarev.com/ghpvc/?username=TheAndreyZakharov&color=blue&style=pixel&label=Profile+Views) <!-- style=plastic / pixel-->
