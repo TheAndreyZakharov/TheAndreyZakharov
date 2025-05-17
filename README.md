@@ -86,7 +86,7 @@
         <h3>Achievements</h3>
         <img src="metrics/metrics.plugin.achievements.svg" alt="Achievements" width="400"> <br>
         <img src="https://github-profile-trophy.vercel.app/?username=TheAndreyZakharov&theme=onedark&no-bg=true&margin-w=15&margin-h=15&column=6&rank=-?" alt="GitHub Trophies" width="400"> <br>
-        <img src="https://count.getloli.com/@ProfileViews?name=ProfileViews&theme=rule34&padding=12&offset=0&align=center&scale=0.7&pixelated=1&darkmode=0" alt=":ProfileViews" />        
+        <h3>Profile Views: <img src="https://count.getloli.com/@ProfileViews?name=ProfileViews&theme=rule34&padding=8&offset=0&align=center&scale=0.7&pixelated=1&darkmode=0" alt=":ProfileViews" /> </h3>        
         <h3>WakaTime</h3>
         <img src="metrics/metrics.plugin.wakatime.svg" alt="WakaTime.svg" width="400">
         <h3>LeetCode</h3>
