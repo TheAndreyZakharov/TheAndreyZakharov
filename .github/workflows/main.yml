@@ -63,7 +63,7 @@ jobs:
           config_timezone: Europe/Moscow
 
       - name: Detailed display
-        uses: gh-metrics/metrics@master
+        uses: stalomeow/metrics@projects-v2 # lowlighter/metrics@latest
         with:
           filename: metrics/metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
