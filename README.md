@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/TheAndreyZakharov" title="https://www.linkedin.com/in/TheAndreyZakharov" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-linkedin-94.png" alt="LinkedIn" width="50">
   </a>
-  <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
+  <a href="https://www.facebook.com/TheAndreyZakharov/" title="https://www.facebook.com/TheAndreyZakharov/" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-facebook-94.png" alt="Facebook" width="50">
   </a>
   <a href="https://www.reddit.com/user/TheAndreyZakharov" title="https://www.reddit.com/user/TheAndreyZakharov" target="_blank" style="margin: 0 10px;">
