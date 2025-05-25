@@ -58,7 +58,7 @@
   <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-discord-94.png" alt="Discord" width="50">
   </a>
-  <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
+  <a href="https://www.instagram.com/the_andrey_zakharov/" title="https://www.instagram.com/the_andrey_zakharov/" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-instagram-94.png" alt="Instagram" width="50">
   </a>
   <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
