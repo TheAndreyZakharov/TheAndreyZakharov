@@ -9,31 +9,22 @@
 </div>
 
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; align-items: flex-start; margin-top: 20px;">
-  <!-- Левая колонка -->
-  <div>
-    <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="400"/>
-  </div>
-
-  <!-- Правая колонка (три графика) -->
-  <div style="display: flex; flex-direction: column;">
-    <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=percentile&border_radius=12&bg_color=30,e4ffe6,ccf2d6,9ad1a6&title_color=036d19&text_color=1b1f23&icon_color=2ea043&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=percentile&border_radius=12&bg_color=30,e4ffe6,ccf2d6,9ad1a6&title_color=036d19&text_color=1b1f23&icon_color=2ea043&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=percentile&border_radius=12&bg_color=30,e4ffe6,ccf2d6,9ad1a6&title_color=036d19&text_color=1b1f23&icon_color=2ea043&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" 
-        alt="Andrey Zakharov GitHub Stats" 
-        width="400"
-      />
-  </picture>
-  </div>
+<div align="center">
+  <img 
+    src="profile-3d-contrib/profile-green-animate.svg" 
+    alt="3D Contribution Graph" 
+    width="400"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=percentile&border_radius=12&bg_color=30,e4ffe6,ccf2d6,9ad1a6&title_color=036d19&text_color=1b1f23&icon_color=2ea043&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" 
+    alt="GitHub Stats" 
+    width="400"
+  />
 </div>
+
+
+
+
 
 
 
@@ -100,14 +91,14 @@
   <table style="width: 80%; margin-top: 20px; border-collapse: collapse;">
     <tr>
       <td style="text-align: center; vertical-align: top; padding: 20px;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheAndreyZakharov&theme=vue" alt="GitHub Stats" width="400"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=TheAndreyZakharov&theme=onedark&no-bg=true&margin-w=15&margin-h=15&column=6&rank=-?" alt="GitHub Trophies" width="400"> <br>
+        <img src="https://count.getloli.com/@ProfileViews?name=ProfileViews&theme=rule34&padding=8&offset=0&align=center&scale=0.7&pixelated=1&darkmode=0" alt=":ProfileViews" /> <br>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheAndreyZakharov&theme=vue" alt="GitHub Stats" width="400"/> <br>
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAndreyZakharov&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&border_radius=0" alt="WakaTime Stats" width="400">
       </td>
       <td style="text-align: center; vertical-align: top; padding: 20px;" rowspan="2">
-        <img src="https://github-profile-trophy.vercel.app/?username=TheAndreyZakharov&theme=onedark&no-bg=true&margin-w=15&margin-h=15&column=6&rank=-?" alt="GitHub Trophies" width="400"> <br>
-        <img src="https://count.getloli.com/@ProfileViews?name=ProfileViews&theme=rule34&padding=8&offset=0&align=center&scale=0.7&pixelated=1&darkmode=0" alt=":ProfileViews" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheAndreyZakharov&theme=vue&utcOffset=3" alt="Productive Time" width="400"/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAndreyZakharov&theme=github-compact&bg_color=00000000&color=4c4f52&title_color=2ea043&line=3fb950&point=2ea043&area=true&hide_border=false&radius=10&days=40" alt="GitHub Activity Graph" width="400"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheAndreyZakharov&theme=vue&utcOffset=3" alt="Productive Time" width="400"/> <br>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAndreyZakharov&theme=github-compact&bg_color=00000000&color=4c4f52&title_color=2ea043&line=3fb950&point=2ea043&area=true&hide_border=false&radius=10&days=40" alt="GitHub Activity Graph" width="400"/> <br>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAndreyZakharov&theme=vue" alt="Profile Details" width="400"/>       
       </td>
     </tr>
