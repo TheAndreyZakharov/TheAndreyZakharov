@@ -1,0 +1,7 @@
+{
+  "preset": "night-rainbow",
+  "bgColor": "#f7f7f7",
+  "shadow": true,
+  "animation": true,
+  "fileName": "profile-night-rainbow.svg"
+}

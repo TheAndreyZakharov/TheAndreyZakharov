@@ -1,7 +1,7 @@
 {
   "type": "rainbow",
-  "backgroundColor": "#00000f",
-  "foregroundColor": "#eeeeff",
+  "backgroundColor": "#f7f7f7",
+  "foregroundColor": "#000000",
   "strongColor": "rgb(255,200,55)",
   "weakColor": "#aaaaaa",
   "radarColor": "rgb(255,200,55)",
