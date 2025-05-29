@@ -103,24 +103,24 @@
     <tr>
       <td style="text-align: center; vertical-align: top; padding: 20px;">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=percentile&border_radius=12&bg_color=30,1e1b29,3e2c5f,7d4acb&title_color=b084f8&text_color=e3e3f3&icon_color=a877ff&ring_color=bc8cff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" 
+          src="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=default&border_radius=12&bg_color=30,eeeeee,dcdcdc,cccccc&title_color=000000&text_color=000000&icon_color=000000&ring_color=000000" 
           alt="GitHub Stats" 
           width="400"
-        /> <br>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheAndreyZakharov&theme=tokyonight" alt="GitHub Stats" width="400"/> <br>
-      </td>
-      <td style="text-align: center; vertical-align: top; padding: 20px;" rowspan="2">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAndreyZakharov&layout=compact&hide_title=true&bg_color=1e1b29&text_color=e3e3f3&icon_color=bc8cff&border_radius=10" 
+        /><br>
+          <img 
+          src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAndreyZakharov&layout=compact&hide_title=true&bg_color=eeeeee&text_color=000000&icon_color=5f00b6&border_radius=10" 
           alt="WakaTime Stats" 
           width="400"
-        > <br>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheAndreyZakharov&theme=tokyonight&utcOffset=3" alt="Productive Time" width="400"/> <br>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAndreyZakharov&theme=tokyonight" alt="Profile Details" width="400"/>       
+        > 
+      </td>
+      <td style="text-align: center; vertical-align: top; padding: 20px;" rowspan="2">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheAndreyZakharov&theme=default&utcOffset=3" alt="Productive Time" width="400"/> <br>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAndreyZakharov&theme=default" alt="Profile Details" width="400"/>       
       </td>
     </tr>
   </table>
 </div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheAndreyZakharov&color=purple&style=pixel&label=Profile+Views" alt="Profile views counter">
