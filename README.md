@@ -85,7 +85,7 @@
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAndreyZakharov&layout=compact&hide_title=true&bg_color=f7f7f7&text_color=000000&icon_color=000000&border_radius=10" alt="WakaTime Stats" width="400"> 
       </td>
       <td style="text-align: center; vertical-align: top; padding: 20px;" rowspan="2">
-        <img src="https://count.getloli.com/@ProfileViews?name=ProfileViews&theme=rule34&padding=8&offset=0&align=center&scale=0.7&pixelated=1&darkmode=0" alt="Profile Views Counter" width="400" /><br>
+        <img src="https://count.getloli.com/@ProfileViews?name=ProfileViews&theme=rule34&padding=8&offset=0&align=center&darkmode=0" alt="Profile Views Counter" width="400" /><br>
         <img src="https://github-profile-trophy.vercel.app/?username=TheAndreyZakharov&theme=flat&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6&rank=-?" alt="GitHub Trophies" width="400"/><br>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAndreyZakharov&theme=github-compact&bg_color=f7f7f7&color=000000&title_color=000000&line=000000&point=fb8c00&area=true&area_color=dcdcdc&radius=10&days=60" alt="GitHub Activity Graph" width="400"/> <br>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheAndreyZakharov&theme=swift&utcOffset=3" alt="Productive Time" width="400"/> <br>
