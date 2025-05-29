@@ -49,8 +49,8 @@
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=default&border_radius=5&bg_color=f7f7f7&title_color=000000&text_color=000000&icon_color=000000&ring_color=fb8c00" alt="GitHub Stats" width="378"/> 
-  <img src="https://streak-stats.demolab.com?user=TheAndreyZakharov&theme=default&background=f7f7f7&ring=fb8c00&currStreakNum=000000&fire=fb8c00&sideNums=000000&sideLabels=000000&dates=000000&locale=en" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=default&border_radius=5&bg_color=f7f7f7&title_color=000000&text_color=000000&icon_color=000000&ring_color=000000" alt="GitHub Stats" width="378"/> 
+  <img src="https://streak-stats.demolab.com?user=TheAndreyZakharov&theme=default&background=f7f7f7&ring=000000&currStreakNum=000000&fire=000000&sideNums=000000&sideLabels=000000&dates=000000&locale=en" alt="GitHub Streak" width="400"/>
 </div>
 
 
