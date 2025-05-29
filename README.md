@@ -1,13 +1,20 @@
 <p align="center">
-  <img src="/resources/banner1.gif" alt="Banner">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:dcdcdc&height=250&section=header&text=Hi%2C%20I’m%20Andrey%20Zakharov&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=54&descAlign=50&descSize=16" 
+    alt="Header" 
+    style="width: 100%;" 
+  />
 </p>
 
-<div align="center">
-  <h1>
-    <img src="/resources/cat_jump.gif" alt="Cat" width="50"/>
-    Hi, welcome!
-  </h1>
-</div>
+
+
+
+
+
+
+
+
+
 
 <div align="center">
   <img 
@@ -100,3 +107,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheAndreyZakharov&color=purple&style=pixel&label=Profile+Views" alt="Profile views counter">
 </p>
+
+
+
+
+
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:dcdcdc,100:ffffff&height=120&section=footer" 
+    alt="Footer" 
+    style="width: 100%;" 
+  />
+</p>
+
+
