@@ -7,13 +7,19 @@
 </p>
 
 
-<p align="left">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&text=Let`s%20Connect&fontColor=000000&animation=fadeIn&section=header&reversal=false&fontSize=70" 
-    width="300"
-    alt="Let's Connect"
-  />
 
+
+<img 
+  src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:9f00ff,100:e300ff&text=Lets%20Connect&fontColor=000000&animation=fadeIn&section=header&reversal=false&fontSize=70" 
+  width="300"
+/>
+
+
+
+
+
+
+<div align="center" style="margin-top: 10px;">
   <a href="mailto:Andrey.Zakharov.Contact@gmail.com" title="Andrey.Zakharov.Contact@gmail.com" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-gmail-94.png" alt="Gmail" width="55">
   </a>
@@ -47,13 +53,10 @@
   <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-vk-94.png" alt="VK" width="55">
   </a>
-  
-</p>
+</div>
 
 
-
-
-
+---
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
