@@ -1,11 +1,11 @@
-<p align="center" style="background-color: #ffffff;">
+<!-- Header -->
+<p align="center" style="background-color: #cccccc;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=Hi%2C%20I’m%20Andrey%20Zakharov&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=54&descAlign=50&descSize=16" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=250&section=header&text=Hi%2C%20I’m%20Andrey%20Zakharov&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=54&descAlign=50&descSize=16" 
     alt="Header" 
     style="width: 100%;" 
   />
 </p>
-
 
 
 <div align="center" style="margin-top: 10px;">
@@ -44,18 +44,8 @@
   </a>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
+<!-- 3D Contribution Graph -->
+<div align="center" style="background-color: #f7f7f7; padding: 20px 0;">
   <img 
     src="profile-3d-contrib/profile-night-rainbow.svg" 
     alt="3D Contribution Graph" 
@@ -63,23 +53,17 @@
   />
 </div>
 
-<div align="center">
+<!-- GitHub Activity Graph -->
+<div align="center" style="background-color: #f7f7f7; padding: 20px 0;">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TheAndreyZakharov&theme=github-compact&bg_color=aaaaaa&color=000000&title_color=000000&line=000000&point=000000&area_color=b0b0b0&radius=10&days=30" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TheAndreyZakharov&theme=github-compact&bg_color=f7f7f7&color=000000&title_color=000000&line=000000&point=fb8c00&area=true&area_color=dcdcdc&radius=10&days=30" 
     alt="GitHub Activity Graph" 
     width="800"
   />
 </div>
 
-
-
-
-
-
-
-
-
-<div align="center">
+<!-- Trophies & Views -->
+<div align="center" style="background-color: #f7f7f7; padding: 20px 0;">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=TheAndreyZakharov&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=6&rank=-?" 
     alt="GitHub Trophies" 
@@ -92,60 +76,46 @@
   />
 </div>
 
-
-
-
-
-
-
-<div align="center">
-  <table style="width: 80%; margin-top: 20px; border-collapse: collapse;">
+<!-- Stats, WakaTime, Summary Cards -->
+<div align="center" style="background-color: #f7f7f7; padding: 20px 0;">
+  <table style="width: 80%; border-collapse: collapse;">
     <tr>
       <td style="text-align: center; vertical-align: top; padding: 20px;">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=default&border_radius=12&bg_color=30,eeeeee,dcdcdc,cccccc&title_color=000000&text_color=000000&icon_color=000000&ring_color=000000" 
+          src="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=default&border_radius=12&bg_color=f7f7f7&title_color=000000&text_color=000000&icon_color=000000&ring_color=fb8c00" 
           alt="GitHub Stats" 
           width="400"
         /><br>
-          <img 
-          src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAndreyZakharov&layout=compact&hide_title=true&bg_color=eeeeee&text_color=000000&icon_color=5f00b6&border_radius=10" 
+        <img 
+          src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAndreyZakharov&layout=compact&hide_title=true&bg_color=f7f7f7&text_color=000000&icon_color=000000&border_radius=10" 
           alt="WakaTime Stats" 
           width="400"
         > 
       </td>
       <td style="text-align: center; vertical-align: top; padding: 20px;" rowspan="2">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheAndreyZakharov&theme=default&utcOffset=3" alt="Productive Time" width="400"/> <br>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAndreyZakharov&theme=default" alt="Profile Details" width="400"/>       
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheAndreyZakharov&theme=swift&utcOffset=3" alt="Productive Time" width="400"/> <br>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAndreyZakharov&theme=swift" alt="Profile Details" width="400"/> <br>
       </td>
     </tr>
   </table>
 </div>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheAndreyZakharov&color=purple&style=pixel&label=Profile+Views" alt="Profile views counter">
-</p>
-
-
-<p align="center">
+<!-- Streak Stats -->
+<p align="center" style="background-color: #f7f7f7; padding: 20px 0;">
   <a href="https://git.io/streak-stats">
     <img 
-      src="https://streak-stats.demolab.com?user=TheAndreyZakharov&theme=default&background=aaaaaa&hide_border=true&ring=000000&currStreakNum=000000&fire=000000&sideNums=000000&sideLabels=000000&dates=000000&locale=en"
+      src="https://streak-stats.demolab.com?user=TheAndreyZakharov&theme=default&background=f7f7f7&hide_border=true&ring=fb8c00&currStreakNum=000000&fire=fb8c00&sideNums=000000&sideLabels=000000&dates=000000&locale=en"
       alt="GitHub Streak"
       width="500"
     />
   </a>
 </p>
 
-
-
-
-<p align="center" style="background-color: #ffffff;">
+<!-- Footer -->
+<p align="center" style="background-color: #cccccc;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=120&section=footer" 
     alt="Footer" 
     style="width: 100%;" 
   />
 </p>
-
-
