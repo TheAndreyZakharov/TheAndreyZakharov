@@ -60,6 +60,62 @@
    
 </h1>
 
+<!-- Заголовок "About Me" с эффектом blur -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:9f00ff,100:e300ff&text=About%20Me&fontColor=000000&animation=fadeIn&section=header&reversal=false&fontSize=70" 
+  width="300"
+/>
+
+<!-- 3D Contribution Graph справа -->
+<img 
+  align="right"
+  src="profile-3d-contrib/profile-night-rainbow.svg" 
+  alt="3D Contribution Graph" 
+  width="400"
+/>
+
+
+<!-- Текст "About Me" -->
+<ul>
+  <li>
+    Passionate developer from Russia with a strong background in Software Engineering.
+  </li>
+  <li>
+    Experienced in building diverse projects — from experimental ideas to full-fledged applications.
+  </li>
+  <li>
+    Thrive on tackling complex challenges and enjoy solving problems through code.
+  </li>
+  <li>
+    Constantly inspired to turn innovative concepts into tangible, working solutions.
+  </li>
+  <li>
+    Lifelong learner who’s always exploring new technologies and development trends.
+  </li>
+  <li>
+    Believe in clean, maintainable code and collaborative work that brings real value.
+  </li>
+</ul>
+
+
+
+
+<h1>
+   
+</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=default&border_radius=5&bg_color=f7f7f7&title_color=000000&text_color=000000&icon_color=000000&ring_color=000000" alt="GitHub Stats" width="378"/> 
   <img src="https://streak-stats.demolab.com?user=TheAndreyZakharov&theme=default&background=f7f7f7&ring=000000&currStreakNum=000000&fire=000000&sideNums=000000&sideLabels=000000&dates=000000&locale=en" alt="GitHub Streak" width="400"/>
