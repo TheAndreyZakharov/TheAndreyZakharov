@@ -27,13 +27,13 @@
   <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-discord-94.png" alt="Discord" width="55">
   </a>
-  <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
+  <a href="https://open.spotify.com/user/31xnbwxotc2ixa65z42u5obuwwxi?si=da785ea23ab94aa1" title="Spotify" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-spotify-94.png" alt="Spotify" width="55">
   </a>
   <a href="https://www.instagram.com/the_andrey_zakharov/" title="https://www.instagram.com/the_andrey_zakharov/" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-instagram-94.png" alt="Instagram" width="55">
   </a>
-  <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
+  <a href="https://ru.pinterest.com/The_Andrey_Zakharov/" title="https://ru.pinterest.com/The_Andrey_Zakharov/" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-pinterest-94.png" alt="Pinterest" width="55">
   </a>
   <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
@@ -87,7 +87,7 @@
       <td style="text-align: center; vertical-align: top; padding: 20px;" rowspan="2">
         <img src="https://count.getloli.com/@ProfileViews?name=ProfileViews&theme=rule34&padding=8&offset=0&align=center&scale=0.7&pixelated=1&darkmode=0" alt="Profile Views Counter" width="400" /><br>
         <img src="https://github-profile-trophy.vercel.app/?username=TheAndreyZakharov&theme=flat&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6&rank=-?" alt="GitHub Trophies" width="400"/><br>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAndreyZakharov&theme=github-compact&bg_color=f7f7f7&color=000000&title_color=000000&line=000000&point=fb8c00&area=true&area_color=dcdcdc&radius=10&days=30" alt="GitHub Activity Graph" width="400"/> <br>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAndreyZakharov&theme=github-compact&bg_color=f7f7f7&color=000000&title_color=000000&line=000000&point=fb8c00&area=true&area_color=dcdcdc&radius=10&days=60" alt="GitHub Activity Graph" width="400"/> <br>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheAndreyZakharov&theme=swift&utcOffset=3" alt="Productive Time" width="400"/> <br>
         <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAndreyZakharov&theme=swift" alt="Profile Details" width="400"/> <br> -->
       </td>
