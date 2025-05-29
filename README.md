@@ -119,6 +119,15 @@
 </p>
 
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com?user=TheAndreyZakharov&theme=default&background=aaaaaa&hide_border=true&ring=000000&currStreakNum=000000&fire=000000&sideNums=000000&sideLabels=000000&dates=000000&locale=en"
+      alt="GitHub Streak"
+      width="500"
+    />
+  </a>
+</p>
 
 
 
