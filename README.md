@@ -1,6 +1,7 @@
-<p align="center" style="background-color: #cccccc;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=250&section=header&text=Hi%2C%20I’m%20Andrey%20Zakharov&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=54&descAlign=50&descSize=16" alt="Header" style="width: 100%;" />
+<p align="center" style="background-color: #f7f7f7;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f7f7f7&height=250&section=header&text=Hi%2C%20I’m%20Andrey%20Zakharov&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=54&descAlign=50&descSize=16" alt="Header" style="width: 100%;" />
 </p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:9f00ff,100:e300ff&text=Let%E2%80%99s%20Connect&fontColor=6b7280&animation=fadeIn&section=header&reversal=false&fontSize=70" width="300" />
 
