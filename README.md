@@ -10,10 +10,9 @@
 
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:9f00ff,100:e300ff&text=Lets%20Connect&fontColor=000000&animation=fadeIn&section=header&reversal=false&fontSize=70" 
+  src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:9f00ff,100:e300ff&text=Let%E2%80%99s%20Connect&fontColor=000000&animation=fadeIn&section=header&reversal=false&fontSize=70" 
   width="300"
 />
-
 
 
 
@@ -60,13 +59,11 @@
    
 </h1>
 
-<!-- Заголовок "About Me" с эффектом blur -->
 <img 
   src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:9f00ff,100:e300ff&text=About%20Me&fontColor=000000&animation=fadeIn&section=header&reversal=false&fontSize=70" 
   width="300"
 />
 
-<!-- 3D Contribution Graph справа -->
 <img 
   align="right"
   src="profile-3d-contrib/profile-night-rainbow.svg" 
@@ -74,8 +71,6 @@
   width="400"
 />
 
-
-<!-- Текст "About Me" -->
 <ul>
   <li>
     Passionate developer from Russia with a strong background in Software Engineering.
@@ -116,16 +111,6 @@
 
 
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=default&border_radius=5&bg_color=f7f7f7&title_color=000000&text_color=000000&icon_color=000000&ring_color=000000" alt="GitHub Stats" width="378"/> 
-  <img src="https://streak-stats.demolab.com?user=TheAndreyZakharov&theme=default&background=f7f7f7&ring=000000&currStreakNum=000000&fire=000000&sideNums=000000&sideLabels=000000&dates=000000&locale=en" alt="GitHub Streak" width="400"/>
-</div>
-
-
-
-
-
-
 
 <!-- Trophies & Views -->
 <div align="center" style="background-color: #f7f7f7; padding: 20px 0;">
@@ -146,11 +131,8 @@
   <table style="width: 80%; border-collapse: collapse;">
     <tr>
       <td style="text-align: center; vertical-align: top; padding: 20px;">
-          <img
-            src="profile-3d-contrib/profile-night-rainbow.svg" 
-            alt="3D Contribution Graph" 
-            width="400"
-          /> <br>
+        <img src="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=default&border_radius=5&bg_color=f7f7f7&title_color=000000&text_color=000000&icon_color=000000&ring_color=000000" alt="GitHub Stats" width="400"/> <br>
+        <img src="https://streak-stats.demolab.com?user=TheAndreyZakharov&theme=default&background=f7f7f7&ring=000000&currStreakNum=000000&fire=000000&sideNums=000000&sideLabels=000000&dates=000000&locale=en" alt="GitHub Streak" width="400"/> <br>
         <img 
           src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAndreyZakharov&layout=compact&hide_title=true&bg_color=f7f7f7&text_color=000000&icon_color=000000&border_radius=10" 
           alt="WakaTime Stats" 
