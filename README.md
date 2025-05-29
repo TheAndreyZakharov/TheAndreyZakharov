@@ -1,6 +1,6 @@
-<p align="center">
+<p align="center" style="background-color: #ffffff;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:dcdcdc&height=250&section=header&text=Hi%2C%20I’m%20Andrey%20Zakharov&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=54&descAlign=50&descSize=16" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=Hi%2C%20I’m%20Andrey%20Zakharov&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=54&descAlign=50&descSize=16" 
     alt="Header" 
     style="width: 100%;" 
   />
@@ -113,9 +113,9 @@
 
 
 
-<p align="center">
+<p align="center" style="background-color: #ffffff;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:dcdcdc,100:ffffff&height=120&section=footer" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer" 
     alt="Footer" 
     style="width: 100%;" 
   />
