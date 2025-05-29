@@ -69,8 +69,14 @@
   <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-discord-94.png" alt="Discord" width="50">
   </a>
+  <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
+    <img src="/resources/icons8-spotify-94.png" alt="Spotify" width="50">
+  </a>
   <a href="https://www.instagram.com/the_andrey_zakharov/" title="https://www.instagram.com/the_andrey_zakharov/" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-instagram-94.png" alt="Instagram" width="50">
+  </a>
+  <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
+    <img src="/resources/icons8-pinterest-94.png" alt="Pinterest" width="50">
   </a>
   <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-vk-94.png" alt="VK" width="50">
