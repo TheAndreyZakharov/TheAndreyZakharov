@@ -5,53 +5,42 @@
 <div align="center">
   <h1>
     <img src="/resources/cat_jump.gif" alt="Cat" width="50"/>
-    Hi, welcome!</h1>
+    Hi, welcome!
+  </h1>
 </div>
-
 
 <div align="center">
   <img 
-    src="profile-3d-contrib/profile-green-animate.svg" 
+    src="profile-3d-contrib/profile-night-rainbow.svg" 
     alt="3D Contribution Graph" 
+    width="800"
+  />
+</div>
+
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TheAndreyZakharov&theme=rogue&bg_color=00000000&color=c084fc&title_color=b084f8&line=9333ea&point=8613e4&area=true&hide_border=false&radius=10&days=40" 
+    alt="GitHub Activity Graph" 
+    width="800"
+  />
+</div>
+
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=TheAndreyZakharov&theme=algolia&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=6&rank=-?&bg_color=1e1b29" 
+    alt="GitHub Trophies" 
     width="400"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=percentile&border_radius=12&bg_color=30,e4ffe6,ccf2d6,9ad1a6&title_color=036d19&text_color=1b1f23&icon_color=2ea043&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" 
-    alt="GitHub Stats" 
+    src="https://count.getloli.com/@ProfileViews?name=ProfileViews&theme=rule34&padding=8&offset=0&align=center&scale=0.7&pixelated=1&darkmode=0" 
+    alt="Profile Views Counter" 
     width="400"
   />
 </div>
 
 
 
-
-
-
-
-<h2>
-  <img src="/resources/gokittygo.gif" alt="Cat" width="45"/>
-  I'm Andrey Zakharov
-</h2>
-
-<img align="right" src="/resources/keyboard1.gif" alt="Keyboard GIF" width="320"/>
-
-<h3>
-  <img src="/resources/WaitingPeachCat.gif" alt="Cat" width="40"/>
-  About Me
-</h3>
-
-<ul>
-  <li>I am an enthusiastic developer from Russia with experience in Software Engineering, skilled in working on a variety of projects. I enjoy challenges and can code anything that sparks my interest, transforming ideas into reality.
-  </li>
-</ul>
-
-<h3>
-  <img src="/resources/cutekitty.gif" alt="Cat" width="40"/>
-  Let's Connect
-</h3>
-
-<ul>    
-<div style="margin-top: 10px;">
+<div align="center" style="margin-top: 10px;">
   <a href="mailto:Andrey.Zakharov.Contact@gmail.com" title="Andrey.Zakharov.Contact@gmail.com" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-gmail-94.png" alt="Gmail" width="50">
   </a>
@@ -80,62 +69,34 @@
     <img src="/resources/icons8-vk-94.png" alt="VK" width="50">
   </a>
 </div>
-</ul>
 
-<h2>
-  <img src="/resources/CatNomsCherryBlossom.gif" alt="Cat" width="45"/>
-  Explore My Stats
-</h2>
+
+
 
 <div align="center">
   <table style="width: 80%; margin-top: 20px; border-collapse: collapse;">
     <tr>
       <td style="text-align: center; vertical-align: top; padding: 20px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=TheAndreyZakharov&theme=onedark&no-bg=true&margin-w=15&margin-h=15&column=6&rank=-?" alt="GitHub Trophies" width="400"> <br>
-        <img src="https://count.getloli.com/@ProfileViews?name=ProfileViews&theme=rule34&padding=8&offset=0&align=center&scale=0.7&pixelated=1&darkmode=0" alt=":ProfileViews" /> <br>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheAndreyZakharov&theme=vue" alt="GitHub Stats" width="400"/> <br>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAndreyZakharov&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&border_radius=0" alt="WakaTime Stats" width="400">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=percentile&border_radius=12&bg_color=30,1e1b29,3e2c5f,7d4acb&title_color=b084f8&text_color=e3e3f3&icon_color=a877ff&ring_color=bc8cff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" 
+          alt="GitHub Stats" 
+          width="400"
+        /> <br>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheAndreyZakharov&theme=tokyonight" alt="GitHub Stats" width="400"/> <br>
       </td>
       <td style="text-align: center; vertical-align: top; padding: 20px;" rowspan="2">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheAndreyZakharov&theme=vue&utcOffset=3" alt="Productive Time" width="400"/> <br>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAndreyZakharov&theme=github-compact&bg_color=00000000&color=4c4f52&title_color=2ea043&line=3fb950&point=2ea043&area=true&hide_border=false&radius=10&days=40" alt="GitHub Activity Graph" width="400"/> <br>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAndreyZakharov&theme=vue" alt="Profile Details" width="400"/>       
+        <img 
+          src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAndreyZakharov&layout=compact&hide_title=true&bg_color=1e1b29&text_color=e3e3f3&icon_color=bc8cff&border_radius=10" 
+          alt="WakaTime Stats" 
+          width="400"
+        > <br>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheAndreyZakharov&theme=tokyonight&utcOffset=3" alt="Productive Time" width="400"/> <br>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAndreyZakharov&theme=tokyonight" alt="Profile Details" width="400"/>       
       </td>
     </tr>
   </table>
 </div>
 
-<p align="left">
-  <img src="/resources/kittycat.gif" alt="Cat">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheAndreyZakharov&color=purple&style=pixel&label=Profile+Views" alt="Profile views counter">
 </p>
-
-<details>
-  <summary><strong>Resources</strong>
-  </summary>
-  <p>
-    Below is a collection of resources that contributed to the development of this README. Some were directly used, while others served as sources of inspiration, guiding its structure and enhancing clarity.
-  </p>
-  <ul>
-    <li><a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">Awesome GitHub Profile Readme</a></li>
-    <li><a href="https://github.com/rzashakeri/beautify-github-profile">Beautify GitHub Profile</a></li>
-    <li><a href="https://github.com/lowlighter/metrics">Lowlighter Metrics</a></li>
-    <li><a href="https://github.com/Ileriayo/markdown-badges">Markdown Badges</a></li>
-    <li><a href="https://github.com/anuraghazra/github-readme-stats">Anurag's GitHub Stats</a></li>
-    <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Streak Stats</a></li>
-    <li><a href="https://github.com/ryo-ma/github-profile-trophy">GitHub Profile Trophy</a></li>
-    <li><a href="https://github.com/Nathan13888/VisitorBadgeReloaded?tab=readme-ov-file#migrating-from-visitor-badge">Visitor Badge Reloaded</a></li>
-    <li><a href="https://github.com/antonkomarev/github-profile-views-counter">Github Profile Views Counter</a></li> 
-    <li><a href="https://github.com/journey-ad/Moe-Counter">Moe Counter</a></li>
-    <li><a href="https://github.com/pujux/badge-it?tab=readme-ov-file">Badge It</a></li>
-    <li><a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges4 README.md Profile</a></li>
-    <li><a href="https://github.com/CLorant/readme-social-icons">Readme Social Icons</a></li>
-    <li><a href="https://github.com/yoshi389111/github-profile-3d-contrib">GitHub Profile 3D Contrib</a></li>
-  </ul>
-  
-  ![](https://komarev.com/ghpvc/?username=TheAndreyZakharov&color=blue&style=pixel&label=Profile+Views) 
-  
-</details>
-
-
-
-
