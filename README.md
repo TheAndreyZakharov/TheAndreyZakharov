@@ -1,4 +1,3 @@
-<!-- Header -->
 <p align="center" style="background-color: #cccccc;">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=250&section=header&text=Hi%2C%20I’m%20Andrey%20Zakharov&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=54&descAlign=50&descSize=16" 
@@ -10,74 +9,49 @@
 
 <div align="center" style="margin-top: 10px;">
   <a href="mailto:Andrey.Zakharov.Contact@gmail.com" title="Andrey.Zakharov.Contact@gmail.com" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-gmail-94.png" alt="Gmail" width="70">
+    <img src="/resources/icons8-gmail-94.png" alt="Gmail" width="60">
   </a>
   <a href="https://t.me/TheAndreyZakharov" title="https://t.me/TheAndreyZakharov" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-telegram-94.png" alt="Telegram" width="70">
+    <img src="/resources/icons8-telegram-94.png" alt="Telegram" width="60">
   </a>
   <a href="https://www.linkedin.com/in/TheAndreyZakharov" title="https://www.linkedin.com/in/TheAndreyZakharov" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-linkedin-94.png" alt="LinkedIn" width="70">
+    <img src="/resources/icons8-linkedin-94.png" alt="LinkedIn" width="60">
   </a>
   <a href="https://www.facebook.com/TheAndreyZakharov/" title="https://www.facebook.com/TheAndreyZakharov/" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-facebook-94.png" alt="Facebook" width="70">
+    <img src="/resources/icons8-facebook-94.png" alt="Facebook" width="60">
   </a>
   <a href="https://www.reddit.com/user/TheAndreyZakharov" title="https://www.reddit.com/user/TheAndreyZakharov" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-reddit-94.png" alt="Reddit" width="70">
+    <img src="/resources/icons8-reddit-94.png" alt="Reddit" width="60">
   </a>
   <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-twitch-94.png" alt="Twitch" width="70">
+    <img src="/resources/icons8-twitch-94.png" alt="Twitch" width="60">
   </a>
   <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-discord-94.png" alt="Discord" width="70">
+    <img src="/resources/icons8-discord-94.png" alt="Discord" width="60">
   </a>
   <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-spotify-94.png" alt="Spotify" width="70">
+    <img src="/resources/icons8-spotify-94.png" alt="Spotify" width="60">
   </a>
   <a href="https://www.instagram.com/the_andrey_zakharov/" title="https://www.instagram.com/the_andrey_zakharov/" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-instagram-94.png" alt="Instagram" width="70">
+    <img src="/resources/icons8-instagram-94.png" alt="Instagram" width="60">
   </a>
   <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-pinterest-94.png" alt="Pinterest" width="70">
+    <img src="/resources/icons8-pinterest-94.png" alt="Pinterest" width="60">
   </a>
   <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-vk-94.png" alt="VK" width="70">
+    <img src="/resources/icons8-vk-94.png" alt="VK" width="60">
   </a>
 </div>
 
 
 
 
-  
 
 
-<p>
-  <img align="left" 
-    src="profile-3d-contrib/profile-night-rainbow.svg" 
-    alt="3D Contribution Graph" 
-    width="400"
-  />
-</p>
-
-<p>
-  <img align="right" 
-    src="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=default&border_radius=12&bg_color=f7f7f7&title_color=000000&text_color=000000&icon_color=000000&ring_color=fb8c00" 
-    alt="GitHub Stats" 
-    width="300"
-  />
-</p>
-
-<p>
-  <img align="right" 
-    src="https://streak-stats.demolab.com?user=TheAndreyZakharov&theme=default&background=f7f7f7&hide_border=true&ring=fb8c00&currStreakNum=000000&fire=fb8c00&sideNums=000000&sideLabels=000000&dates=000000&locale=en"
-    alt="GitHub Streak"
-    width="300"
-  />
-</p>
-
-
-
-
-
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=default&border_radius=5&bg_color=f7f7f7&title_color=000000&text_color=000000&icon_color=000000&ring_color=fb8c00" alt="GitHub Stats" width="378"/> 
+  <img src="https://streak-stats.demolab.com?user=TheAndreyZakharov&theme=default&background=f7f7f7&ring=fb8c00&currStreakNum=000000&fire=fb8c00&sideNums=000000&sideLabels=000000&dates=000000&locale=en" alt="GitHub Streak" width="400"/>
+</div>
 
 
 
@@ -104,11 +78,11 @@
   <table style="width: 80%; border-collapse: collapse;">
     <tr>
       <td style="text-align: center; vertical-align: top; padding: 20px;">
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=default&border_radius=12&bg_color=f7f7f7&title_color=000000&text_color=000000&icon_color=000000&ring_color=fb8c00" 
-          alt="GitHub Stats" 
-          width="400"
-        /><br>
+          <img
+            src="profile-3d-contrib/profile-night-rainbow.svg" 
+            alt="3D Contribution Graph" 
+            width="400"
+          /> <br>
         <img 
           src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAndreyZakharov&layout=compact&hide_title=true&bg_color=f7f7f7&text_color=000000&icon_color=000000&border_radius=10" 
           alt="WakaTime Stats" 
@@ -128,18 +102,13 @@
   </table>
 </div>
 
-<!-- Streak Stats -->
-<p align="center" style="background-color: #f7f7f7; padding: 20px 0;">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=TheAndreyZakharov&theme=default&background=f7f7f7&hide_border=true&ring=fb8c00&currStreakNum=000000&fire=fb8c00&sideNums=000000&sideLabels=000000&dates=000000&locale=en"
-      alt="GitHub Streak"
-      width="500"
-    />
-  </a>
-</p>
 
-<!-- Footer -->
+
+
+
+
+
+
 <p align="center" style="background-color: #cccccc;">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=120&section=footer" 
