@@ -44,23 +44,46 @@
   </a>
 </div>
 
-<!-- 3D Contribution Graph -->
-<div align="center" style="background-color: #f7f7f7; padding: 20px 0;">
-  <img 
+
+
+
+  
+
+
+<p>
+  <img align="left" 
     src="profile-3d-contrib/profile-night-rainbow.svg" 
     alt="3D Contribution Graph" 
-    width="800"
+    width="400"
   />
-</div>
+</p>
 
-<!-- GitHub Activity Graph -->
-<div align="center" style="background-color: #f7f7f7; padding: 20px 0;">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TheAndreyZakharov&theme=github-compact&bg_color=f7f7f7&color=000000&title_color=000000&line=000000&point=fb8c00&area=true&area_color=dcdcdc&radius=10&days=30" 
-    alt="GitHub Activity Graph" 
-    width="800"
+<p>
+  <img align="right" 
+    src="https://github-readme-stats.vercel.app/api?username=TheAndreyZakharov&show_icons=true&include_all_commits=true&rank_icon=default&border_radius=12&bg_color=f7f7f7&title_color=000000&text_color=000000&icon_color=000000&ring_color=fb8c00" 
+    alt="GitHub Stats" 
+    width="300"
   />
-</div>
+</p>
+
+<p>
+  <img align="right" 
+    src="https://streak-stats.demolab.com?user=TheAndreyZakharov&theme=default&background=f7f7f7&hide_border=true&ring=fb8c00&currStreakNum=000000&fire=fb8c00&sideNums=000000&sideLabels=000000&dates=000000&locale=en"
+    alt="GitHub Streak"
+    width="300"
+  />
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Trophies & Views -->
 <div align="center" style="background-color: #f7f7f7; padding: 20px 0;">
@@ -93,6 +116,11 @@
         > 
       </td>
       <td style="text-align: center; vertical-align: top; padding: 20px;" rowspan="2">
+        <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TheAndreyZakharov&theme=github-compact&bg_color=f7f7f7&color=000000&title_color=000000&line=000000&point=fb8c00&area=true&area_color=dcdcdc&radius=10&days=30" 
+    alt="GitHub Activity Graph" 
+    width="400"
+        /> <br>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheAndreyZakharov&theme=swift&utcOffset=3" alt="Productive Time" width="400"/> <br>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAndreyZakharov&theme=swift" alt="Profile Details" width="400"/> <br>
       </td>
