@@ -108,25 +108,12 @@
 
 
 
+<img 
+  src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:9f00ff,100:e300ff&text=My%20Metrics&fontColor=000000&animation=fadeIn&section=header&reversal=false&fontSize=70" 
+  width="300"
+/>
 
 
-
-
-<!-- Trophies & Views -->
-<div align="center" style="background-color: #f7f7f7; padding: 20px 0;">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=TheAndreyZakharov&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=6&rank=-?" 
-    alt="GitHub Trophies" 
-    width="400"
-  />
-  <img 
-    src="https://count.getloli.com/@ProfileViews?name=ProfileViews&theme=rule34&padding=8&offset=0&align=center&scale=0.7&pixelated=1&darkmode=0" 
-    alt="Profile Views Counter" 
-    width="400"
-  />
-</div>
-
-<!-- Stats, WakaTime, Summary Cards -->
 <div align="center" style="background-color: #f7f7f7; padding: 20px 0;">
   <table style="width: 80%; border-collapse: collapse;">
     <tr>
@@ -140,13 +127,23 @@
         > 
       </td>
       <td style="text-align: center; vertical-align: top; padding: 20px;" rowspan="2">
+          <img 
+    src="https://count.getloli.com/@ProfileViews?name=ProfileViews&theme=rule34&padding=8&offset=0&align=center&scale=0.7&pixelated=1&darkmode=0" 
+    alt="Profile Views Counter" 
+    width="400"
+  /><br>
+          <img 
+    src="https://github-profile-trophy.vercel.app/?username=TheAndreyZakharov&theme=flat&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6&rank=-?" 
+    alt="GitHub Trophies" 
+    width="400"
+  /><br>
         <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=TheAndreyZakharov&theme=github-compact&bg_color=f7f7f7&color=000000&title_color=000000&line=000000&point=fb8c00&area=true&area_color=dcdcdc&radius=10&days=30" 
     alt="GitHub Activity Graph" 
     width="400"
         /> <br>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheAndreyZakharov&theme=swift&utcOffset=3" alt="Productive Time" width="400"/> <br>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAndreyZakharov&theme=swift" alt="Profile Details" width="400"/> <br>
+        <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAndreyZakharov&theme=swift" alt="Profile Details" width="400"/> <br> -->
       </td>
     </tr>
   </table>
