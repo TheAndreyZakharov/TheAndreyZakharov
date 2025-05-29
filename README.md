@@ -65,15 +65,23 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TheAndreyZakharov&theme=rogue&bg_color=00000000&color=c084fc&title_color=b084f8&line=9333ea&point=8613e4&area=true&hide_border=false&radius=10&days=40" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TheAndreyZakharov&theme=github-compact&bg_color=aaaaaa&color=000000&title_color=000000&line=000000&point=000000&area_color=b0b0b0&radius=10&days=30" 
     alt="GitHub Activity Graph" 
     width="800"
   />
 </div>
 
+
+
+
+
+
+
+
+
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=TheAndreyZakharov&theme=algolia&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=6&rank=-?&bg_color=1e1b29" 
+    src="https://github-profile-trophy.vercel.app/?username=TheAndreyZakharov&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=6&rank=-?" 
     alt="GitHub Trophies" 
     width="400"
   />
