@@ -1,4 +1,4 @@
-<p align="center" style="background-color: #f7f7f7;">
+<p align="center" style="background-color: #cccccc;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f7f7f7&height=250&section=header&text=Hi%2C%20I’m%20Andrey%20Zakharov&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=54&descAlign=50&descSize=16" alt="Header" style="width: 100%;" />
 </p>
 
