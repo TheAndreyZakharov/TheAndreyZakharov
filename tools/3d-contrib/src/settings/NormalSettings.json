@@ -1,7 +1,7 @@
 {
   "type": "normal",
-  "backgroundColor": "#ffffff",
-  "foregroundColor": "#00000f",
+  "backgroundColor": "#f7f7f7",
+  "foregroundColor": "#000000",
   "strongColor": "#111133",
   "weakColor": "gray",
   "radarColor": "#47a042",
