@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=250&section=header&text=Hi%2C%20I’m%20Andrey%20Zakharov&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=54&descAlign=50&descSize=16" alt="Header" style="width: 100%;" />
 </p>
 
-
 <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:9f00ff,100:e300ff&text=Let%E2%80%99s%20Connect&fontColor=6b7280&animation=fadeIn&section=header&reversal=false&fontSize=70" width="300" />
 
 <div align="center" style="margin-top: 10px;">
@@ -21,10 +20,10 @@
   <a href="https://www.reddit.com/user/TheAndreyZakharov" title="https://www.reddit.com/user/TheAndreyZakharov" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-reddit-94.png" alt="Reddit" width="55">
   </a>
-  <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
+  <a href="https://www.twitch.tv/theandreyzakharov" title="https://www.twitch.tv/theandreyzakharov" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-twitch-94.png" alt="Twitch" width="55">
   </a>
-  <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
+  <a href="https://discord.gg/CVtA4QDPXN" title="Discord" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-discord-94.png" alt="Discord" width="55">
   </a>
   <a href="https://open.spotify.com/user/31xnbwxotc2ixa65z42u5obuwwxi?si=da785ea23ab94aa1" title="Spotify" target="_blank" style="margin: 0 10px;">
@@ -47,7 +46,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:9f00ff,100:e300ff&text=About%20Me&fontColor=6b7280&animation=fadeIn&section=header&reversal=false&fontSize=70" width="300" />
 
-<img align="right" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="400"/>
+<img align="right" src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="400"/>
 
 <ul>
   <li>
@@ -76,7 +75,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:9f00ff,100:e300ff&text=My%20Metrics&fontColor=6b7280&animation=fadeIn&section=header&reversal=false&fontSize=70" width="300" />
 
-<div align="center" style="background-color: #f7f7f7; padding: 20px 0;">
+<div align="center" padding: 20px 0;">
   <table style="width: 80%; border-collapse: collapse;">
     <tr>
       <td style="text-align: center; vertical-align: top; padding: 20px;">

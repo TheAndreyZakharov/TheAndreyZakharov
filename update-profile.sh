@@ -7,7 +7,7 @@ echo "Добавление файлов в git..."
 git add .
 
 echo "Коммит..."
-git commit -m "auto-update profile svg"
+git commit -m "update profile svg"
 
 echo "Пуш в GitHub..."
 git push origin main
