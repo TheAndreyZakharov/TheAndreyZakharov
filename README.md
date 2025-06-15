@@ -35,9 +35,9 @@
   <a href="https://ru.pinterest.com/The_Andrey_Zakharov/" title="https://ru.pinterest.com/The_Andrey_Zakharov/" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-pinterest-94.png" alt="Pinterest" width="55">
   </a>
-  <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
+  <!-- <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-vk-94.png" alt="VK" width="55">
-  </a>
+  </a> -->
 </div>
 
 <h1>
