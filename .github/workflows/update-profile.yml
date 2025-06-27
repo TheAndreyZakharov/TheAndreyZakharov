@@ -1,0 +1,46 @@
+name: Update Profile SVG
+
+on:
+  schedule:
+    - cron: '0 21 * * *'  # 21:00 UTC = 00:00 MSK
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Create .env file from secrets
+        run: |
+          echo "GITHUB_TOKEN=${{ secrets.METRICS_TOKEN }}" >> .env
+          echo "WAKATIME_TOKEN=${{ secrets.WAKATIME_TOKEN }}" >> .env
+
+      - name: Generate SVG
+        run: npm run generate
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push changes
+        run: |
+          git add .
+          git commit -m "update profile svg" || echo "Nothing to commit"
+          git push origin HEAD:main
