@@ -26,6 +26,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Build TypeScript
+        run: npm run build
+
       - name: Create .env file from secrets
         run: |
           echo "GITHUB_TOKEN=${{ secrets.METRICS_TOKEN }}" >> .env
