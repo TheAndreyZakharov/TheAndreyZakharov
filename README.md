@@ -6,46 +6,46 @@
 
 <div align="center" style="margin-top: 10px;">
   <a href="https://theandreyzakharov.github.io/" title="theandreyzakharov.github.io" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-website-94.png" alt="WebSite" width="55">
+    <img src="/resources/icons8-website-94.png" alt="WebSite" width="60">
   </a>
   <a href="mailto:Andrey.Zakharov.Contact@gmail.com" title="Andrey.Zakharov.Contact@gmail.com" target="_blank" style="margin: 0 10px;">
     <img src="/resources/icons8-gmail-94.png" alt="Gmail" width="55">
   </a>
-  <a href="https://t.me/TheAndreyZakharov" title="https://t.me/TheAndreyZakharov" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-telegram-94.png" alt="Telegram" width="55">
+  <a href="https://t.me/TheAndreyZakharov" title="https://t.me/TheAndreyZakharov" target="_blank" style="margin: 0 15px;">
+    <img src="/resources/icons8-telegram-94.png" alt="Telegram" width="60">
   </a>
-  <a href="https://www.linkedin.com/in/TheAndreyZakharov" title="https://www.linkedin.com/in/TheAndreyZakharov" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-linkedin-94.png" alt="LinkedIn" width="55">
+  <a href="https://www.linkedin.com/in/TheAndreyZakharov" title="https://www.linkedin.com/in/TheAndreyZakharov" target="_blank" style="margin: 0 15px;">
+    <img src="/resources/icons8-linkedin-94.png" alt="LinkedIn" width="60">
   </a>
-  <a href="https://www.facebook.com/TheAndreyZakharov/" title="https://www.facebook.com/TheAndreyZakharov/" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-facebook-94.png" alt="Facebook" width="55">
+  <a href="https://www.facebook.com/TheAndreyZakharov/" title="https://www.facebook.com/TheAndreyZakharov/" target="_blank" style="margin: 0 15px;">
+    <img src="/resources/icons8-facebook-94.png" alt="Facebook" width="60">
   </a>
-  <a href="https://www.reddit.com/user/TheAndreyZakharov" title="https://www.reddit.com/user/TheAndreyZakharov" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-reddit-94.png" alt="Reddit" width="55">
+  <a href="https://www.reddit.com/user/TheAndreyZakharov" title="https://www.reddit.com/user/TheAndreyZakharov" target="_blank" style="margin: 0 15px;">
+    <img src="/resources/icons8-reddit-94.png" alt="Reddit" width="60">
   </a>
-  <a href="https://www.twitch.tv/theandreyzakharov" title="https://www.twitch.tv/theandreyzakharov" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-twitch-94.png" alt="Twitch" width="55">
+  <a href="https://www.twitch.tv/theandreyzakharov" title="https://www.twitch.tv/theandreyzakharov" target="_blank" style="margin: 0 15px;">
+    <img src="/resources/icons8-twitch-94.png" alt="Twitch" width="60">
   </a>
-  <a href="https://discord.gg/CVtA4QDPXN" title="Discord" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-discord-94.png" alt="Discord" width="55">
+  <a href="https://discord.gg/CVtA4QDPXN" title="Discord" target="_blank" style="margin: 0 15px;">
+    <img src="/resources/icons8-discord-94.png" alt="Discord" width="60">
   </a>
-  <a href="https://www.youtube.com/@TheAndreyZakharov" title="@TheAndreyZakharov" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-youtube-logo-94.png" alt="YouTube" width="55">
+  <a href="https://www.youtube.com/@TheAndreyZakharov" title="@TheAndreyZakharov" target="_blank" style="margin: 0 15px;">
+    <img src="/resources/icons8-youtube-logo-94.png" alt="YouTube" width="60">
   </a>
-  <a href="https://open.spotify.com/user/31xnbwxotc2ixa65z42u5obuwwxi?si=da785ea23ab94aa1" title="Spotify" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-spotify-94.png" alt="Spotify" width="55">
+  <a href="https://open.spotify.com/user/31xnbwxotc2ixa65z42u5obuwwxi?si=da785ea23ab94aa1" title="Spotify" target="_blank" style="margin: 0 15px;">
+    <img src="/resources/icons8-spotify-94.png" alt="Spotify" width="60">
   </a>
-  <a href="https://www.instagram.com/the_andrey_zakharov/" title="https://www.instagram.com/the_andrey_zakharov/" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-instagram-94.png" alt="Instagram" width="55">
+  <a href="https://www.instagram.com/the_andrey_zakharov/" title="https://www.instagram.com/the_andrey_zakharov/" target="_blank" style="margin: 0 15px;">
+    <img src="/resources/icons8-instagram-94.png" alt="Instagram" width="60">
   </a>
-  <a href="https://ru.pinterest.com/The_Andrey_Zakharov/" title="https://ru.pinterest.com/The_Andrey_Zakharov/" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-pinterest-94.png" alt="Pinterest" width="55">
+  <a href="https://ru.pinterest.com/The_Andrey_Zakharov/" title="https://ru.pinterest.com/The_Andrey_Zakharov/" target="_blank" style="margin: 0 15px;">
+    <img src="/resources/icons8-pinterest-94.png" alt="Pinterest" width="60">
   </a>
-  <a href="" title="not yet" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-vk-94.png" alt="VK" width="55">
+  <a href="" title="not yet" target="_blank" style="margin: 0 15px;">
+    <img src="/resources/icons8-vk-94.png" alt="VK" width="60">
   </a>
-  <a href="https://github.com/TheAndreyZakharov" title="https://github.com/TheAndreyZakharov" target="_blank" style="margin: 0 10px;">
-    <img src="/resources/icons8-github-94.png" alt="GitHub" width="55">
+  <a href="https://github.com/TheAndreyZakharov" title="https://github.com/TheAndreyZakharov" target="_blank" style="margin: 0 15px;">
+    <img src="/resources/icons8-github-94.png" alt="GitHub" width="60">
   </a>
 </div>
 
