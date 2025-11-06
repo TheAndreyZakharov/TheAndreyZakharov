@@ -29,9 +29,9 @@
   <a href="https://discord.gg/CVtA4QDPXN" title="Discord" target="_blank">
     <img src="/resources/icons8-discord-94.png" alt="Discord" width="60">
   </a>
-  <!-- <a href="https://www.youtube.com/@TheAndreyZakharov" title="YouTube" target="_blank">
+  <a href="https://www.youtube.com/@TheAndreyZakharov" title="YouTube" target="_blank">
     <img src="/resources/icons8-youtube-logo-94.png" alt="YouTube" width="60">
-  </a> -->
+  </a>
   <a href="https://open.spotify.com/user/31xnbwxotc2ixa65z42u5obuwwxi?si=da785ea23ab94aa1" title="Spotify" target="_blank">
     <img src="/resources/icons8-spotify-94.png" alt="Spotify" width="60">
   </a>
@@ -41,12 +41,19 @@
   <a href="https://ru.pinterest.com/The_Andrey_Zakharov/" title="Pinterest" target="_blank">
     <img src="/resources/icons8-pinterest-94.png" alt="Pinterest" width="60">
   </a>
-  <!-- <a href="" title="not yet" target="_blank">
+  <a href="" title="not yet" target="_blank">
     <img src="/resources/icons8-vk-94.png" alt="VK" width="60">
-  </a>  -->
-  <!-- <a href="https://github.com/TheAndreyZakharov" title="GitHub" target="_blank">
+  </a>
+  <a href="https://github.com/TheAndreyZakharov" title="GitHub" target="_blank">
     <img src="/resources/icons8-github-94.png" alt="GitHub" width="60">
-  </a> -->
+  </a>
+  <a href="https://leetcode.com/u/TheAndreyZakharov/" title="LeetCode" target="_blank">
+    <img src="/resources/icons8-leetcode-96.png" alt="LeetCode" width="60">
+  </a>
+  <a href="https://www.chess.com/member/TheAndreyZakharov" title="Chess" target="_blank">
+    <img src="/resources/icons8-chess-96.png" alt="Chess" width="60">
+  </a>
+ 
 </div>
 
 <h1>
