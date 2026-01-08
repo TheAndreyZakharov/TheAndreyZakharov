@@ -1,8 +1,8 @@
 name: Update Profile SVG
 
 on:
-  schedule:
-    - cron: '0 21 * * *'  # 21:00 UTC = 00:00 MSK
+  # schedule:
+  #  - cron: '0 21 * * *'  # 21:00 UTC = 00:00 MSK
   workflow_dispatch:
   push:
     branches:
