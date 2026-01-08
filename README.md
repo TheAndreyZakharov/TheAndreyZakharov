@@ -2,12 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=250&section=header&text=Hi%2C%20I’m%20Andrey%20Zakharov&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=54&descAlign=50&descSize=16" alt="Header" style="width: 100%;" />
 </p>
 
+<!--
 <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:9f00ff,100:e300ff&text=Let%E2%80%99s%20Connect&fontColor=6b7280&animation=fadeIn&section=header&reversal=false&fontSize=70" width="300" />
+ -->
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; margin-top: 10px;">
-  <a href="https://theandreyzakharov.github.io/" title="theandreyzakharov.github.io" target="_blank">
+  <!-- <a href="https://theandreyzakharov.github.io/" title="theandreyzakharov.github.io" target="_blank">
     <img src="/resources/icons8-website-94.png" alt="WebSite" width="60">
-  </a>
+  </a> -->
   <a href="mailto:Andrey.Zakharov.Contact@gmail.com" title="Andrey.Zakharov.Contact@gmail.com" target="_blank">
     <img src="/resources/icons8-gmail-94.png" alt="Gmail" width="60">
   </a>
@@ -17,78 +19,64 @@
   <a href="https://www.linkedin.com/in/TheAndreyZakharov" title="LinkedIn" target="_blank">
     <img src="/resources/icons8-linkedin-94.png" alt="LinkedIn" width="60">
   </a>
-  <a href="https://www.facebook.com/TheAndreyZakharov/" title="Facebook" target="_blank">
+  <!-- <a href="https://www.facebook.com/TheAndreyZakharov/" title="Facebook" target="_blank">
     <img src="/resources/icons8-facebook-94.png" alt="Facebook" width="60">
-  </a>
-  <a href="https://www.reddit.com/user/TheAndreyZakharov" title="Reddit" target="_blank">
+  </a> -->
+  <!-- <a href="https://www.reddit.com/user/TheAndreyZakharov" title="Reddit" target="_blank">
     <img src="/resources/icons8-reddit-94.png" alt="Reddit" width="60">
-  </a>
-  <a href="https://www.twitch.tv/theandreyzakharov" title="Twitch" target="_blank">
+  </a> -->
+  <!-- <a href="https://www.twitch.tv/theandreyzakharov" title="Twitch" target="_blank">
     <img src="/resources/icons8-twitch-94.png" alt="Twitch" width="60">
-  </a>
-  <a href="https://discord.gg/CVtA4QDPXN" title="Discord" target="_blank">
+  </a> -->
+  <!-- <a href="https://discord.gg/CVtA4QDPXN" title="Discord" target="_blank">
     <img src="/resources/icons8-discord-94.png" alt="Discord" width="60">
-  </a>
-  <a href="https://www.youtube.com/@TheAndreyZakharov" title="YouTube" target="_blank">
+  </a> -->
+  <!-- <a href="https://www.youtube.com/@TheAndreyZakharov" title="YouTube" target="_blank">
     <img src="/resources/icons8-youtube-logo-94.png" alt="YouTube" width="60">
-  </a>
-  <a href="https://open.spotify.com/user/31xnbwxotc2ixa65z42u5obuwwxi?si=da785ea23ab94aa1" title="Spotify" target="_blank">
+  </a> -->
+  <!-- <a href="https://open.spotify.com/user/31xnbwxotc2ixa65z42u5obuwwxi?si=da785ea23ab94aa1" title="Spotify" target="_blank">
     <img src="/resources/icons8-spotify-94.png" alt="Spotify" width="60">
-  </a>
-  <a href="https://www.instagram.com/the_andrey_zakharov/" title="Instagram" target="_blank">
+  </a> -->
+  <!-- <a href="https://www.instagram.com/the_andrey_zakharov/" title="Instagram" target="_blank">
     <img src="/resources/icons8-instagram-94.png" alt="Instagram" width="60">
-  </a>
-  <a href="https://ru.pinterest.com/The_Andrey_Zakharov/" title="Pinterest" target="_blank">
+  </a> -->
+  <!-- <a href="https://ru.pinterest.com/The_Andrey_Zakharov/" title="Pinterest" target="_blank">
     <img src="/resources/icons8-pinterest-94.png" alt="Pinterest" width="60">
-  </a>
-  <a href="" title="not yet" target="_blank">
+  </a> -->
+  <!-- <a href="" title="not yet" target="_blank">
     <img src="/resources/icons8-vk-94.png" alt="VK" width="60">
-  </a>
-  <a href="https://github.com/TheAndreyZakharov" title="GitHub" target="_blank">
+  </a> -->
+  <!-- <a href="https://github.com/TheAndreyZakharov" title="GitHub" target="_blank">
     <img src="/resources/icons8-github-94.png" alt="GitHub" width="60">
-  </a>
-  <a href="https://leetcode.com/u/TheAndreyZakharov/" title="LeetCode" target="_blank">
+  </a> -->
+  <!-- <a href="https://leetcode.com/u/TheAndreyZakharov/" title="LeetCode" target="_blank">
     <img src="/resources/icons8-leetcode-96.png" alt="LeetCode" width="60">
-  </a>
-  <a href="https://www.chess.com/member/TheAndreyZakharov" title="Chess" target="_blank">
+  </a> -->
+  <!-- <a href="https://www.chess.com/member/TheAndreyZakharov" title="Chess" target="_blank">
     <img src="/resources/icons8-chess-96.png" alt="Chess" width="60">
-  </a>
- 
+  </a> -->
 </div>
 
 <h1>
    
 </h1>
 
+<!--
+
 <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:9f00ff,100:e300ff&text=About%20Me&fontColor=6b7280&animation=fadeIn&section=header&reversal=false&fontSize=70" width="300" />
 
-<img align="right" src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="400"/>
+ -->
+ 
 
-<ul>
-  <li>
-    Passionate developer from Russia with a strong background in Software Engineering.
-  </li>
-  <li>
-    Experienced in building diverse projects — from experimental ideas to full-fledged applications.
-  </li>
-  <li>
-    Thrive on tackling complex challenges and enjoy solving problems through code.
-  </li>
-  <li>
-    Constantly inspired to turn innovative concepts into tangible, working solutions.
-  </li>
-  <li>
-    Lifelong learner who’s always exploring new technologies and development trends.
-  </li>
-  <li>
-    Believe in clean, maintainable code and collaborative work that brings real value.
-  </li>
-</ul>
+<!--
 
-<h1>
-   
-</h1>
+<img align="center" src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="800"/>
+ 
+ -->
 
+
+
+<!--
 <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:9f00ff,100:e300ff&text=My%20Metrics&fontColor=6b7280&animation=fadeIn&section=header&reversal=false&fontSize=70" width="300" />
 
 <div align="center" padding: 20px 0;">
@@ -109,7 +97,15 @@
     </tr>
   </table>
 </div>
+ -->
+
+
+
+
+ <!--
 
 <p align="center" style="background-color: #cccccc;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=120&section=footer" alt="Footer" style="width: 100%;" />
 </p>
+
+ -->
