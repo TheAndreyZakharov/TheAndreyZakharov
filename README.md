@@ -7,17 +7,17 @@
  -->
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; margin-top: 10px;">
-  <!-- <a href="https://theandreyzakharov.github.io/" title="theandreyzakharov.github.io" target="_blank">
-    <img src="/resources/icons8-website-94.png" alt="WebSite" width="60">
-  </a> -->
   <a href="mailto:Andrey.Zakharov.Contact@gmail.com" title="Andrey.Zakharov.Contact@gmail.com" target="_blank">
-    <img src="/resources/icons8-gmail-94.png" alt="Gmail" width="60">
+    <img src="/resources/icons8-mail-94.png" alt="Gmail" width="60">
   </a>
   <a href="https://t.me/TheAndreyZakharov" title="Telegram" target="_blank">
     <img src="/resources/icons8-telegram-94.png" alt="Telegram" width="60">
   </a>
   <a href="https://www.linkedin.com/in/TheAndreyZakharov" title="LinkedIn" target="_blank">
     <img src="/resources/icons8-linkedin-94.png" alt="LinkedIn" width="60">
+  </a>
+  <a href="https://theandreyzakharov.github.io/" title="theandreyzakharov.github.io" target="_blank">
+    <img src="/resources/icons8-website-94.png" alt="WebSite" width="60">
   </a>
   <!-- <a href="https://www.facebook.com/TheAndreyZakharov/" title="Facebook" target="_blank">
     <img src="/resources/icons8-facebook-94.png" alt="Facebook" width="60">
