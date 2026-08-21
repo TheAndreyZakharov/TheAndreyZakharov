@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/TheAndreyZakharov" title="LinkedIn" target="_blank">
     <img src="/resources/icons8-linkedin-94.png" alt="LinkedIn" width="60">
   </a>
-  <a href="https://theandreyzakharov.github.io/" title="theandreyzakharov.github.io" target="_blank">
+  <a href="https://TheAndreyZakharov.com/" title="TheAndreyZakharov.com" target="_blank">
     <img src="/resources/icons8-website-94.png" alt="WebSite" width="60">
   </a>
   <!-- <a href="https://www.facebook.com/TheAndreyZakharov/" title="Facebook" target="_blank">
